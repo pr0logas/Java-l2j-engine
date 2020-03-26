@@ -1,0 +1,30 @@
+[INFO ] 2020-03-24 20:46:32 accounting: Client [Character: Darking[268540115] - Account: jedamaes - IP: 45.176.232.250] logged in.
+[INFO ] 2020-03-24 23:59:30 accounting: Client [Character: Darking[268540115] - Account: jedamaes - IP: 45.176.232.250] logged in.
+[WARN ] 2020-03-25 00:00:19 accounting: Client [Character: Darking[268540115] - Account: jedamaes - IP: 45.176.232.250] disconnected abnormally!
+[INFO ] 2020-03-25 00:00:37 accounting: Client [Character: Darking[268540115] - Account: jedamaes - IP: 45.176.232.250] logged in.
+[INFO ] 2020-03-25 10:15:11 accounting: Created new character Takeshi [268502261] [Account: eucalion - IP: 186.139.236.24].
+[INFO ] 2020-03-25 10:15:13 accounting: Client [Character: Takeshi[268502261] - Account: eucalion - IP: 186.139.236.24] logged in.
+[WARN ] 2020-03-25 15:09:12 accounting: Client [Character: Takeshi[268502261] - Account: eucalion - IP: 186.139.236.24] disconnected abnormally!
+[INFO ] 2020-03-25 16:51:56 accounting: Client [Character: Takeshi[268502261] - Account: eucalion - IP: 186.139.236.24] logged in.
+[INFO ] 2020-03-25 18:06:42 accounting: Created new character Covid19 [268514339] [Account: wexiiz - IP: 213.166.158.126].
+[INFO ] 2020-03-25 18:06:53 accounting: Client [Character: Covid19[268514339] - Account: wexiiz - IP: 213.166.158.126] logged in.
+[INFO ] 2020-03-25 18:43:11 accounting: Client [Character: abadarDMG[268490976] - Account: obuolys - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-25 20:30:54 accounting: Client [Character: Darking[268540115] - Account: jedamaes - IP: 45.176.232.250] logged in.
+[INFO ] 2020-03-25 21:07:07 accounting: [Character: Darking[268540115] - Account: jedamaes - IP: 45.176.232.250] logged out.
+[INFO ] 2020-03-26 01:02:23 accounting: Created new character NightKing [268524763] [Account: kamenvn - IP: 94.134.88.29].
+[INFO ] 2020-03-26 01:02:25 accounting: Client [Character: NightKing[268524763] - Account: kamenvn - IP: 94.134.88.29] logged in.
+[INFO ] 2020-03-26 01:23:56 accounting: Created new character Bran [268525266] [Account: kamenberlin - IP: 94.134.88.29].
+[INFO ] 2020-03-26 01:23:59 accounting: Client [Character: Bran[268525266] - Account: kamenberlin - IP: 94.134.88.29] logged in.
+[INFO ] 2020-03-26 02:24:12 accounting: Created new character Bonbon [268526815] [Account: kamenspoil - IP: 94.134.88.29].
+[INFO ] 2020-03-26 02:24:15 accounting: Client [Character: Bonbon[268526815] - Account: kamenspoil - IP: 94.134.88.29] logged in.
+[INFO ] 2020-03-26 03:38:32 accounting: Created new character DemonKnight [268528844] [Account: rambinho - IP: 189.55.60.161].
+[INFO ] 2020-03-26 03:38:35 accounting: Client [Character: DemonKnight[268528844] - Account: rambinho - IP: 189.55.60.161] logged in.
+[INFO ] 2020-03-26 03:48:08 accounting: [Character: DemonKnight[268528844] - Account: rambinho - IP: 189.55.60.161] logged out.
+[INFO ] 2020-03-26 03:54:09 accounting: Created new character kykyO [268529307] [Account: rambospoil - IP: 189.55.60.161].
+[INFO ] 2020-03-26 03:54:12 accounting: Client [Character: kykyO[268529307] - Account: rambospoil - IP: 189.55.60.161] logged in.
+[INFO ] 2020-03-26 10:35:02 accounting: Created new character Testik [268539476] [Account: dabinakcz - IP: 89.102.3.9].
+[INFO ] 2020-03-26 10:35:05 accounting: Client [Character: Testik[268539476] - Account: dabinakcz - IP: 89.102.3.9] logged in.
+[INFO ] 2020-03-26 10:40:29 accounting: [Character: Testik[268539476] - Account: dabinakcz - IP: 89.102.3.9] logged out.
+[INFO ] 2020-03-26 11:32:31 accounting: [Character: Bran[268525266] - Account: kamenberlin - IP: 94.134.88.29] logged out.
+[INFO ] 2020-03-26 11:32:41 accounting: [Character: NightKing[268524763] - Account: kamenvn - IP: 94.134.88.29] logged out.
+[INFO ] 2020-03-26 12:23:20 accounting: Client [Character: Bonbon[268526815] - Account: kamenspoil - IP: 94.134.88.29] logged in.

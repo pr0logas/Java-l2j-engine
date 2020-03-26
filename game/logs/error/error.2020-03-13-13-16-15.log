@@ -1,0 +1,315 @@
+[WARN ] 2020-03-13 13:13:25 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:13:30 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:13:35 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:13:40 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:13:45 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:13:50 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:13:55 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:14:00 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:14:05 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:14:10 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:14:15 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:14:20 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:14:25 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:14:30 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:14:35 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:14:40 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:14:45 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:14:50 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:14:55 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:15:00 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:15:05 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:15:10 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:15:15 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:15:20 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:15:25 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:15:30 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:15:35 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:15:40 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:15:45 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:15:50 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:15:55 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:16:00 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:16:05 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:16:10 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]
+[WARN ] 2020-03-13 13:16:15 LoginServerThread: Unknown host!
+java.net.UnknownHostException: *
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[?:?]
+	at java.net.Socket.connect(Socket.java:591) ~[?:?]
+	at java.net.Socket.connect(Socket.java:540) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:436) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:213) ~[?:?]
+	at com.l2jserver.gameserver.LoginServerThread.run(LoginServerThread.java:158) [l2jserver.jar:?]

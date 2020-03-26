@@ -1,0 +1,8 @@
+[INFO ] 2020-03-13 14:17:12 accounting: Created new character Adeptio [268481045] [Account: test - IP: 78.58.124.5].
+[INFO ] 2020-03-13 14:17:15 accounting: Client [Character: Adeptio[268481045] - Account: test - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-13 14:22:31 accounting: [Character: Adeptio[268481045] - Account: test - IP: 78.58.124.5] logged out.
+[INFO ] 2020-03-13 14:23:03 accounting: Created new character roothere [268481220] [Account: adeptio - IP: 78.58.124.5].
+[WARN ] 2020-03-13 14:23:03 accounting: Client [Account: adeptio - IP: 78.58.124.5] disconnected abnormally!
+[INFO ] 2020-03-13 14:23:41 accounting: Client [Character: roothere[268481220] - Account: adeptio - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-13 14:28:12 accounting: [Character: roothere[268481220] - Account: adeptio - IP: 78.58.124.5] logged out.
+[INFO ] 2020-03-13 14:28:42 accounting: Client [Character: roothere[268481220] - Account: adeptio - IP: 78.58.124.5] logged in.

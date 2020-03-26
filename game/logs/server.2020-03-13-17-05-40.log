@@ -1,0 +1,259 @@
+[INFO ] 2020-03-13 13:56:36 GameServer: ------------------------------------------------=[ Database ]
+[INFO ] 2020-03-13 13:56:36 GameServer: -----------------------------------=[ Network Configuration ]
+[INFO ] 2020-03-13 13:56:36 IPConfigData: Using existing ipconfig.xml.
+[INFO ] 2020-03-13 13:56:37 ConnectionFactory: Using HikariCP connection pool.
+[INFO ] 2020-03-13 13:56:37 DAOFactory: Using MySQL DAO Factory.
+[INFO ] 2020-03-13 13:56:37 HikariDataSource: HikariPool-1 - Starting...
+[INFO ] 2020-03-13 13:56:37 HikariDataSource: HikariPool-1 - Start completed.
+[INFO ] 2020-03-13 13:56:37 IdFactory: Updated characters online status.
+[INFO ] 2020-03-13 13:56:37 IdFactory: Cleaned 0 elements from database in 0s.
+[INFO ] 2020-03-13 13:56:37 IdFactory: Cleaned 0 expired timestamps from database.
+[INFO ] 2020-03-13 13:56:37 BitSetIDFactory: 102912 Ids available.
+[INFO ] 2020-03-13 13:56:37 GameServer: ---------------------------------------------------=[ World ]
+[INFO ] 2020-03-13 13:56:37 InstanceManager: Multiverse Instance created.
+[INFO ] 2020-03-13 13:56:37 InstanceManager: Universe Instance created.
+[INFO ] 2020-03-13 13:56:37 InstanceManager: Loaded 160 instance names.
+[INFO ] 2020-03-13 13:56:38 L2World: 128 by 136 world region grid set up.
+[INFO ] 2020-03-13 13:56:39 MapRegionManager: Loaded 57 map regions.
+[INFO ] 2020-03-13 13:56:39 GlobalVariablesManager: Loaded 6 variables.
+[INFO ] 2020-03-13 13:56:39 GameServer: ----------------------------------------------------=[ Data ]
+[INFO ] 2020-03-13 13:56:39 CategoryData: Loaded 124 Categories.
+[INFO ] 2020-03-13 13:56:39 SecondaryAuthData: Loaded 328 forbidden passwords.
+[INFO ] 2020-03-13 13:56:39 GameServer: -------------------------------------------------=[ Effects ]
+[INFO ] 2020-03-13 13:56:43 EffectMasterHandler: Loaded 160 effect handlers.
+[INFO ] 2020-03-13 13:56:43 GameServer: ------------------------------------=[ Enchant Skill Groups ]
+[INFO ] 2020-03-13 13:56:43 EnchantSkillGroupsData: Loaded 4 groups and 90 routes.
+[INFO ] 2020-03-13 13:56:43 GameServer: ---------------------------------------------=[ Skill Trees ]
+[INFO ] 2020-03-13 13:56:43 SkillTreesData: Loaded 17176 Class Skills for 103 Class Skill Trees.
+[INFO ] 2020-03-13 13:56:43 SkillTreesData: Loaded 76 Sub-Class Skills.
+[INFO ] 2020-03-13 13:56:43 SkillTreesData: Loaded 77 Transfer Skills for 3 Transfer Skill Trees.
+[INFO ] 2020-03-13 13:56:43 SkillTreesData: Loaded 117 Fishing Skills, 8 Dwarven only Fishing Skills.
+[INFO ] 2020-03-13 13:56:43 SkillTreesData: Loaded 3 Collect Skills.
+[INFO ] 2020-03-13 13:56:43 SkillTreesData: Loaded 74 Pledge Skills, 44 for Pledge and 30 Residential.
+[INFO ] 2020-03-13 13:56:43 SkillTreesData: Loaded 18 Sub-Pledge Skills.
+[INFO ] 2020-03-13 13:56:43 SkillTreesData: Loaded 32 Transform Skills.
+[INFO ] 2020-03-13 13:56:43 SkillTreesData: Loaded 8 Noble Skills.
+[INFO ] 2020-03-13 13:56:43 SkillTreesData: Loaded 5 Hero Skills.
+[INFO ] 2020-03-13 13:56:43 SkillTreesData: Loaded 46 Game Master Skills.
+[INFO ] 2020-03-13 13:56:43 SkillTreesData: Loaded 46 Game Master Aura Skills.
+[INFO ] 2020-03-13 13:56:43 GameServer: --------------------------------------------------=[ Skills ]
+[INFO ] 2020-03-13 13:57:06 DocumentEngine: Loaded 65957 skill templates from XML files.
+[INFO ] 2020-03-13 13:57:06 SummonSkillsTable: Loaded 1891 summon skills.
+[INFO ] 2020-03-13 13:57:06 GameServer: ---------------------------------------------------=[ Items ]
+[INFO ] 2020-03-13 13:57:08 ItemTable: Highest item Id used 22567.
+[INFO ] 2020-03-13 13:57:08 ItemTable: Loaded 11481 Etc items.
+[INFO ] 2020-03-13 13:57:08 ItemTable: Loaded 3825 Armor items.
+[INFO ] 2020-03-13 13:57:08 ItemTable: Loaded 3893 Weapon items.
+[INFO ] 2020-03-13 13:57:08 ItemTable: Loaded 19199 items in total.
+[INFO ] 2020-03-13 13:57:08 EnchantItemGroupsData: Loaded 4 item group templates.
+[INFO ] 2020-03-13 13:57:08 EnchantItemGroupsData: Loaded 1 scroll group templates.
+[INFO ] 2020-03-13 13:57:08 EnchantItemData: Loaded 63 enchant scrolls.
+[INFO ] 2020-03-13 13:57:08 EnchantItemData: Loaded 20 support items.
+[INFO ] 2020-03-13 13:57:08 EnchantItemOptionsData: Loaded 23 items and 1093 options.
+[INFO ] 2020-03-13 13:57:09 OptionData: Loaded 24985 item options.
+[INFO ] 2020-03-13 13:57:09 EnchantItemHPBonusData: Loaded 6 Enchant HP Bonuses.
+[INFO ] 2020-03-13 13:57:09 MerchantPriceConfigTable: Loaded 28 merchant price configs.
+[INFO ] 2020-03-13 13:57:10 BuyListData: Loaded 760 buy lists.
+[INFO ] 2020-03-13 13:57:10 MultisellData: Loaded 192 multisell lists.
+[INFO ] 2020-03-13 13:57:10 RecipeData: Loaded 1000 recipes.
+[INFO ] 2020-03-13 13:57:11 ArmorSetsData: Loaded 198 armor sets.
+[INFO ] 2020-03-13 13:57:11 FishData: Loaded 278 fish.
+[INFO ] 2020-03-13 13:57:11 FishingMonstersData: Loaded 8 fishing monsters.
+[INFO ] 2020-03-13 13:57:11 FishingRodsData: Loaded 6 fishing rods.
+[INFO ] 2020-03-13 13:57:11 HennaData: Loaded 180 Henna data.
+[INFO ] 2020-03-13 13:57:11 GameServer: ----------------------------------------------=[ Characters ]
+[INFO ] 2020-03-13 13:57:11 ClassListData: Loaded 107 class data.
+[INFO ] 2020-03-13 13:57:11 InitialEquipmentData: Loaded 11 initial equipment data.
+[INFO ] 2020-03-13 13:57:11 InitialShortcutData: Loaded 5 initial dlobal shortcuts data.
+[INFO ] 2020-03-13 13:57:11 InitialShortcutData: Loaded 4 initial shortcuts data.
+[INFO ] 2020-03-13 13:57:11 InitialShortcutData: Loaded 0 macros presets.
+[INFO ] 2020-03-13 13:57:11 KarmaData: Loaded 85 karma modifiers.
+[INFO ] 2020-03-13 13:57:11 HitConditionBonusData: Loaded Hit Condition bonuses.
+[INFO ] 2020-03-13 13:57:11 PlayerTemplateData: Loaded 103 character templates.
+[INFO ] 2020-03-13 13:57:11 PlayerTemplateData: Loaded 52530 level up gain records.
+[INFO ] 2020-03-13 13:57:11 PlayerCreationPointData: Loaded 62 character creation points.
+[INFO ] 2020-03-13 13:57:11 CharNameTable: Loaded 0 char names.
+[INFO ] 2020-03-13 13:57:11 AdminData: Loaded 10 access levels.
+[INFO ] 2020-03-13 13:57:11 AdminData: Loaded 444 access commands.
+[INFO ] 2020-03-13 13:57:11 RaidBossPointsManager: Loaded 0 characters raid points.
+[INFO ] 2020-03-13 13:57:12 PetDataTable: Loaded 52 Pets.
+[INFO ] 2020-03-13 13:57:12 GameServer: ---------------------------------------------------=[ Clans ]
+[INFO ] 2020-03-13 13:57:12 ForumsBBSManager: Loaded 4 forums. Last forum id used: 4
+[INFO ] 2020-03-13 13:57:12 ClanTable: Restored 0 clans from the database.
+[INFO ] 2020-03-13 13:57:12 ClanHallSiegeManager: Loaded 6 conquerable clan halls.
+[INFO ] 2020-03-13 13:57:12 AuctionManager: Loaded 38 auction(s).
+[INFO ] 2020-03-13 13:57:12 ClanHallManager: Loaded 0 clan halls.
+[INFO ] 2020-03-13 13:57:12 ClanHallManager: Loaded 38 free clan halls.
+[INFO ] 2020-03-13 13:57:12 GameServer: -------------------------------------------------=[ Geodata ]
+[INFO ] 2020-03-13 13:57:12 GeoData: Loaded 0 regions.
+[INFO ] 2020-03-13 13:57:12 GameServer: ----------------------------------------------------=[ NPCs ]
+[INFO ] 2020-03-13 13:57:12 SkillLearnData: Loaded 256 skill learn data.
+[INFO ] 2020-03-13 13:57:12 NpcData$MinionData: Loaded 128 minions data.
+[INFO ] 2020-03-13 13:57:17 NpcData: Loaded 10461 NPCs.
+[INFO ] 2020-03-13 13:57:17 WalkingManager: Loaded 123 walking routes.
+[INFO ] 2020-03-13 13:57:17 StaticObjectData: Loaded 51 static object templates.
+[INFO ] 2020-03-13 13:57:18 DoorData: Loaded 1301 door templates for 22 regions.
+[INFO ] 2020-03-13 13:57:20 GrandBossManager: Queen Ant (29001) status is 0.
+[INFO ] 2020-03-13 13:57:20 GrandBossManager: Core (29006) status is 0.
+[INFO ] 2020-03-13 13:57:20 GrandBossManager: Orfen (29014) status is 0.
+[INFO ] 2020-03-13 13:57:20 GrandBossManager: Baium (29020) status is 0.
+[INFO ] 2020-03-13 13:57:20 GrandBossManager: Valakas (29028) status is 0.
+[INFO ] 2020-03-13 13:57:20 GrandBossManager: Antharas (29068) status is 0.
+[INFO ] 2020-03-13 13:57:20 GrandBossManager: Beleth (29118) status is 0.
+[INFO ] 2020-03-13 13:57:20 GrandBossManager: Loaded 7 grand boss instances.
+[INFO ] 2020-03-13 13:57:20 ZoneManager: Loaded 28 zone classes and 2793 zones.
+[INFO ] 2020-03-13 13:57:20 ZoneManager: Loaded 0 NPC spawn territoriers.
+[INFO ] 2020-03-13 13:57:20 CastleManager: Loaded 9 castles.
+[INFO ] 2020-03-13 13:57:20 NpcBufferTable: Loaded 1 buffers and 10 skills.
+[INFO ] 2020-03-13 13:57:20 GrandBossManager: Initialized 12 grand boss zones.
+[INFO ] 2020-03-13 13:57:20 GameServer: -----------------------------------------=[ Auction Manager ]
+[INFO ] 2020-03-13 13:57:20 ItemAuctionInstance: Loaded 82 item(s) and registered 1 auction(s) for NPC ID 32320.
+[INFO ] 2020-03-13 13:57:20 ItemAuctionInstance: Schedule next auction ID 1 on 17:00:00 13.03.20 for NPC ID 32320.
+[INFO ] 2020-03-13 13:57:20 ItemAuctionInstance: Loaded 82 item(s) and registered 1 auction(s) for NPC ID 32321.
+[INFO ] 2020-03-13 13:57:20 ItemAuctionInstance: Schedule next auction ID 2 on 17:00:00 16.03.20 for NPC ID 32321.
+[INFO ] 2020-03-13 13:57:20 ItemAuctionInstance: Loaded 82 item(s) and registered 1 auction(s) for NPC ID 32322.
+[INFO ] 2020-03-13 13:57:20 ItemAuctionInstance: Schedule next auction ID 3 on 17:00:00 18.03.20 for NPC ID 32322.
+[INFO ] 2020-03-13 13:57:20 ItemAuctionManager: Loaded 3 auction manager instance(s).
+[INFO ] 2020-03-13 13:57:20 GameServer: ------------------------------------------------=[ Olympiad ]
+[INFO ] 2020-03-13 13:57:20 Olympiad: Loading Olympiad System....
+[INFO ] 2020-03-13 13:57:20 Olympiad: Currently in Olympiad Period
+[INFO ] 2020-03-13 13:57:20 Olympiad: 27242 minutes until period ends
+[INFO ] 2020-03-13 13:57:20 Olympiad: Next weekly change is in 8959 minutes
+[INFO ] 2020-03-13 13:57:20 Olympiad: Loaded 0 Nobles
+[INFO ] 2020-03-13 13:57:20 Olympiad: Competition Period Starts in 0 days, 4 hours and 3 mins.
+[INFO ] 2020-03-13 13:57:20 Olympiad: Event starts/started : Fri Mar 13 18:00:20 UTC 2020
+[INFO ] 2020-03-13 13:57:20 Hero: Loaded 0 Heroes.
+[INFO ] 2020-03-13 13:57:20 Hero: Loaded 0 all time Heroes.
+[INFO ] 2020-03-13 13:57:20 GameServer: ---------------------------------------------=[ Seven Signs ]
+[INFO ] 2020-03-13 13:57:20 SevenSigns: Currently in the Competition (Quest Event) period.
+[INFO ] 2020-03-13 13:57:20 SevenSigns: The Seal of Avarice remains unclaimed.
+[INFO ] 2020-03-13 13:57:20 SevenSigns: The Seal of Gnosis remains unclaimed.
+[INFO ] 2020-03-13 13:57:20 SevenSigns: The Seal of Strife remains unclaimed.
+[INFO ] 2020-03-13 13:57:20 SevenSigns: The competition, if the current trend continues, will end in a tie this week.
+[INFO ] 2020-03-13 13:57:20 SevenSigns: Next period change set to 2020-03-16T18:00:20.801+0000.
+[INFO ] 2020-03-13 13:57:20 SevenSigns: Next period begins in 3 days, 4 hours and 2 mins.
+[INFO ] 2020-03-13 13:57:20 GameServer: ---------------------------------------------------=[ Cache ]
+[INFO ] 2020-03-13 13:57:20 HtmCache: Running lazy cache.
+[INFO ] 2020-03-13 13:57:20 CrestTable: Loaded 0 crests.
+[INFO ] 2020-03-13 13:57:20 TeleportLocationTable: Loaded 957 teleport location templates.
+[INFO ] 2020-03-13 13:57:20 UIData: Loaded 4 keys 5 categories.
+[INFO ] 2020-03-13 13:57:20 AugmentationData: Loaded 33960 augmentations.
+[INFO ] 2020-03-13 13:57:20 AugmentationData: Loaded 2754 accessory augmentations.
+[INFO ] 2020-03-13 13:57:20 CursedWeaponsManager: Loaded 2 cursed weapon(s).
+[INFO ] 2020-03-13 13:57:21 TransformData: Loaded 111 transform templates.
+[INFO ] 2020-03-13 13:57:21 BotReportTable: Loaded 0 bot reports.
+[INFO ] 2020-03-13 13:57:21 GameServer: -------------------------------------------------=[ Scripts ]
+[INFO ] 2020-03-13 13:57:21 AirShipManager: Loaded 0 private airships.
+[INFO ] 2020-03-13 13:57:37 AbstractScript: TerritoryWarSuperClass: Siege date: Sun Mar 22 22:00:00 UTC 2020
+[INFO ] 2020-03-13 13:57:37 ClanHallSiegeEngine: Fortresss of the Dead siege scheduled for 2020-03-26T12:00:00.504+0000.
+[INFO ] 2020-03-13 13:57:37 ClanHallSiegeEngine: Bandit StrongHold siege scheduled for 2020-03-26T12:00:00.458+0000.
+[INFO ] 2020-03-13 13:57:37 ClanHallSiegeEngine: Rainbow Springs siege scheduled for 2020-03-26T12:00:00.474+0000.
+[INFO ] 2020-03-13 13:57:37 NpcBuffersData: Loaded 33 buffers data.
+[INFO ] 2020-03-13 13:57:37 InstanceLoader: Loading Instances scripts.
+[INFO ] 2020-03-13 13:57:38 Q00350_EnhanceYourWeapon: Loaded 54 soul crystal data.
+[INFO ] 2020-03-13 13:57:38 Q00350_EnhanceYourWeapon: Loaded 240 npc leveling data.
+[INFO ] 2020-03-13 13:57:38 HellboundLoader: Loading Hellbound scripts...
+[INFO ] 2020-03-13 13:57:38 HellboundPointData: Loaded 47 trust point reward data.
+[INFO ] 2020-03-13 13:57:38 HellboundSpawns: Loaded 598 Hellbound spawns.
+[INFO ] 2020-03-13 13:57:38 HellboundEngine: Level 0.
+[INFO ] 2020-03-13 13:57:38 HellboundEngine: Trust 0.
+[INFO ] 2020-03-13 13:57:38 HellboundEngine: Status locked.
+[INFO ] 2020-03-13 13:57:38 RaidBossSpawnManager: Loaded 187 bosses.
+[INFO ] 2020-03-13 13:57:38 RaidBossSpawnManager: Scheduled 0 boss instances.
+[INFO ] 2020-03-13 13:57:38 ClanHallSiegeEngine: Devastated Castle siege scheduled for 2020-03-26T12:00:00.448+0000.
+[INFO ] 2020-03-13 13:57:38 GraciaLoader: Loading Gracia scripts...
+[INFO ] 2020-03-13 13:57:38 HandysBlockCheckerEvent: Handy's Block Checker event is enabled.
+[INFO ] 2020-03-13 13:57:38 ClanHallSiegeEngine: Fortress of Resistance siege scheduled for 2020-03-26T12:00:00.426+0000.
+[INFO ] 2020-03-13 13:57:38 ClanHallSiegeEngine: Beast Farm siege scheduled for 2020-03-26T12:00:00.486+0000.
+[INFO ] 2020-03-13 13:57:38 EffectMasterHandler: Loaded 160 effect handlers.
+[INFO ] 2020-03-13 13:57:38 MasterHandler: Loading Handlers...
+[INFO ] 2020-03-13 13:57:38 MasterHandler: Loaded 1 Voiced Command Handler.
+[INFO ] 2020-03-13 13:57:38 MasterHandler: Loaded 10 Action Handler.
+[INFO ] 2020-03-13 13:57:38 MasterHandler: Loaded 6 Action Shift Handler.
+[INFO ] 2020-03-13 13:57:38 MasterHandler: Loaded 449 Admin Command Handler.
+[INFO ] 2020-03-13 13:57:38 MasterHandler: Loaded 48 Bypass Handler.
+[INFO ] 2020-03-13 13:57:38 MasterHandler: Loaded 14 Chat Handler.
+[INFO ] 2020-03-13 13:57:38 MasterHandler: Loaded 15 Community Board Handler.
+[INFO ] 2020-03-13 13:57:38 MasterHandler: Loaded 31 Item Handler.
+[INFO ] 2020-03-13 13:57:38 MasterHandler: Loaded 3 Punishment Handler.
+[INFO ] 2020-03-13 13:57:38 MasterHandler: Loaded 17 User Command Handler.
+[INFO ] 2020-03-13 13:57:38 MasterHandler: Loaded 37 Target Handler.
+[INFO ] 2020-03-13 13:57:38 MasterHandler: Loaded 20 Telnet Handler.
+[INFO ] 2020-03-13 13:57:38 MasterHandler: Handlers Loaded...
+[INFO ] 2020-03-13 13:57:49 SpawnTable: Loaded 3765 NPC spawns.
+[INFO ] 2020-03-13 13:57:50 SpawnTable: Loaded 1190 NPC spawns from XML.
+[INFO ] 2020-03-13 13:57:50 DayNightSpawnManager: Removed 0 night creatures.
+[INFO ] 2020-03-13 13:57:50 DayNightSpawnManager: Spawned 232 day creatures.
+[INFO ] 2020-03-13 13:57:50 FourSepulchersManager: Loaded 20 Mysterious-Box spawns.
+[INFO ] 2020-03-13 13:57:50 FourSepulchersManager: Loaded 716 Physical type monsters spawns.
+[INFO ] 2020-03-13 13:57:50 FourSepulchersManager: Loaded 716 Magical monsters spawns.
+[INFO ] 2020-03-13 13:57:50 FourSepulchersManager: Loaded 92 Church of duke monsters spawns.
+[INFO ] 2020-03-13 13:57:50 FourSepulchersManager: Loaded 68 Emperor's Grave spawns.
+[INFO ] 2020-03-13 13:57:50 FourSepulchersManager: Spawned Conquerors' Sepulcher Manager.
+[INFO ] 2020-03-13 13:57:50 FourSepulchersManager: Spawned Emperors' Sepulcher Manager.
+[INFO ] 2020-03-13 13:57:50 FourSepulchersManager: Spawned Great Sages' Sepulcher Manager.
+[INFO ] 2020-03-13 13:57:50 FourSepulchersManager: Spawned Judges' Sepulcher Manager.
+[INFO ] 2020-03-13 13:57:50 FourSepulchersManager: Beginning in entry time
+[INFO ] 2020-03-13 13:57:50 DimensionalRiftManager: Loaded 7 room types with 56 rooms.
+[INFO ] 2020-03-13 13:57:50 DimensionalRiftManager: Loaded 462 Dimensional Rift spawns.
+[INFO ] 2020-03-13 13:57:50 GameServer: ---------------------------------------------------=[ Siege ]
+[INFO ] 2020-03-13 13:57:50 Siege: Siege of Gludio: 2020-03-22T16:00:00.011+0000.
+[INFO ] 2020-03-13 13:57:50 Siege: Siege of Dion: 2020-03-22T16:00:00.028+0000.
+[INFO ] 2020-03-13 13:57:50 Siege: Siege of Giran: 2020-03-22T16:00:00.036+0000.
+[INFO ] 2020-03-13 13:57:50 Siege: Siege of Oren: 2020-03-22T16:00:00.044+0000.
+[INFO ] 2020-03-13 13:57:50 Siege: Siege of Aden: 2020-03-22T16:00:00.052+0000.
+[INFO ] 2020-03-13 13:57:50 Siege: Siege of Innadril: 2020-03-22T20:00:00.060+0000.
+[INFO ] 2020-03-13 13:57:50 Siege: Siege of Goddard: 2020-03-22T20:00:00.068+0000.
+[INFO ] 2020-03-13 13:57:50 Siege: Siege of Rune: 2020-03-22T20:00:00.076+0000.
+[INFO ] 2020-03-13 13:57:50 Siege: Siege of Schuttgart: 2020-03-22T20:00:00.084+0000.
+[INFO ] 2020-03-13 13:57:50 FortManager: Loaded 21 fortress.
+[INFO ] 2020-03-13 13:57:50 SiegeScheduleData: Loaded 2 siege schedulers.
+[INFO ] 2020-03-13 13:57:50 CastleManorManager: Loaded 258 seeds.
+[INFO ] 2020-03-13 13:57:50 CastleManorManager: Manor data loaded.
+[INFO ] 2020-03-13 13:57:50 MercTicketManager: Loaded 0 mercenary tickets.
+[INFO ] 2020-03-13 13:57:50 GameServer: --------------------------------------------------=[ Quests ]
+[INFO ] 2020-03-13 13:57:50 QuestManager: Loaded 520 quests.
+[INFO ] 2020-03-13 13:57:50 QuestManager: Loaded 272 scripts.
+[INFO ] 2020-03-13 13:57:50 AutoSpawnHandler: Loaded 129 handlers.
+[INFO ] 2020-03-13 13:57:50 SevenSignsFestival: The first Festival of Darkness cycle begins in 2 minute(s).
+[INFO ] 2020-03-13 13:57:50 FaenorEventParser: Event Id Valentines Event has passed... Ignored.
+[INFO ] 2020-03-13 13:57:50 FaenorScriptEngine: Loaded Valentines.xml successfully.
+[INFO ] 2020-03-13 13:57:50 TaskManager: Loaded 12 tasks.
+[INFO ] 2020-03-13 13:57:50 MailManager: Successfully loaded 0 messages.
+[INFO ] 2020-03-13 13:57:50 PunishmentManager: Loaded 0 active and 0 expired punishments.
+[INFO ] 2020-03-13 13:57:50 GameServer: Free Object Ids remaining 1879002981.
+[INFO ] 2020-03-13 13:57:50 TvTManager: Engine is disabled.
+[INFO ] 2020-03-13 13:57:51 GameServer: Started, free memory 9782 Mb of 10240 Mb
+[INFO ] 2020-03-13 13:57:51 LoginServerThread: Connecting to login server on 127.0.0.1:9014
+[INFO ] 2020-03-13 13:57:51 LoginServerThread: Registered on login as Server 2: Sieghardt
+[INFO ] 2020-03-13 13:57:51 GameServer: Now listening on *:7777
+[INFO ] 2020-03-13 13:57:51 GameServer: ----------------------------------------------------=[ UPnP ]
+[INFO ] 2020-03-13 13:57:51 UPnPService: Looking for UPnP Gateway Devices...
+[INFO ] 2020-03-13 13:58:00 UPnPService: No UPnP gateways has been found.
+[INFO ] 2020-03-13 13:58:00 GameServer: Telnet server is currently disabled.
+[INFO ] 2020-03-13 13:58:00 GameServer: Maximum numbers of connected players 3000.
+[INFO ] 2020-03-13 13:58:00 GameServer: Server Sieghardt loaded in 83 seconds.
+[INFO ] 2020-03-13 14:06:10 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-13 14:27:50 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-13 14:30:17 logger: Disconnected
+[INFO ] 2020-03-13 14:36:10 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-13 14:57:50 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-13 15:06:10 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-13 15:27:50 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-13 15:36:10 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-13 15:57:50 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-13 16:00:00 DayNightSpawnManager: Removed 232 day creatures.
+[INFO ] 2020-03-13 16:00:00 DayNightSpawnManager: Spawned 553 night creatures.
+[INFO ] 2020-03-13 16:06:10 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-13 16:27:50 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-13 16:36:10 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-13 16:57:50 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-13 17:00:00 ItemAuctionInstance$ScheduleAuctionTask: Auction ID 1 has started for NPC ID 32320.
+[INFO ] 2020-03-13 17:00:00 DayNightSpawnManager: Removed 553 night creatures.
+[INFO ] 2020-03-13 17:00:00 ItemAuctionInstance: Schedule current auction ID 1 for NPC ID 32320.
+[INFO ] 2020-03-13 17:00:00 DayNightSpawnManager: Spawned 232 day creatures.
+[INFO ] 2020-03-13 17:05:36 LoginServerThread: LoginServerThread: Login terminated the connection.
+[INFO ] 2020-03-13 17:05:40 Shutdown: UPnP Service: All ports mappings deleted (1ms).
+[INFO ] 2020-03-13 17:05:40 Shutdown: All players disconnected and saved(1ms).
+[INFO ] 2020-03-13 17:05:40 GameTimeController: Stopping GameTimeController
+[INFO ] 2020-03-13 17:05:40 Shutdown: Game Time Controller: Timer stopped(0ms).

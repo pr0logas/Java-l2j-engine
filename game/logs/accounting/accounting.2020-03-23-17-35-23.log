@@ -1,0 +1,65 @@
+[INFO ] 2020-03-21 13:36:15 accounting: Client [Character: gsgsd[268678303] - Account: apelsinas - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-21 15:17:33 accounting: [Character: gsgsd[268678303] - Account: apelsinas - IP: 78.58.124.5] logged out.
+[INFO ] 2020-03-21 16:08:31 accounting: Client [Character: gsgsd[268678303] - Account: apelsinas - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-21 16:47:43 accounting: [Character: gsgsd[268678303] - Account: apelsinas - IP: 78.58.124.5] logged out.
+[INFO ] 2020-03-21 16:49:09 accounting: Created new character MagicIsMagic [268486709] [Account: apelsinas - IP: 78.58.124.5].
+[INFO ] 2020-03-21 16:49:15 accounting: Client [Character: MagicIsMagic[268486709] - Account: apelsinas - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-21 17:35:23 accounting: Created new character whatsThat [268488029] [Account: traktorius - IP: 78.58.124.5].
+[INFO ] 2020-03-21 17:35:26 accounting: Client [Character: whatsThat[268488029] - Account: traktorius - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-21 17:36:50 accounting: Created new character celler [268488061] [Account: traktorius1 - IP: 78.58.124.5].
+[INFO ] 2020-03-21 17:36:53 accounting: Client [Character: celler[268488061] - Account: traktorius1 - IP: 78.58.124.5] logged in.
+[WARN ] 2020-03-21 17:37:43 accounting: Client [Character: whatsThat[268488029] - Account: traktorius - IP: 78.58.124.5] disconnected abnormally!
+[WARN ] 2020-03-21 17:40:10 accounting: Client [Character: celler[268488061] - Account: traktorius1 - IP: 78.58.124.5] disconnected abnormally!
+[WARN ] 2020-03-21 17:40:17 accounting: Client [Character: MagicIsMagic[268486709] - Account: apelsinas - IP: 78.58.124.5] disconnected abnormally!
+[INFO ] 2020-03-21 17:41:41 accounting: Client [Character: whatsThat[268488029] - Account: traktorius - IP: 78.58.124.5] logged in.
+[WARN ] 2020-03-21 17:45:35 accounting: Client [Character: whatsThat[268488029] - Account: traktorius - IP: 78.58.124.5] disconnected abnormally!
+[INFO ] 2020-03-21 17:48:21 accounting: Client [Character: whatsThat[268488029] - Account: traktorius - IP: 78.58.124.5] logged in.
+[WARN ] 2020-03-21 17:49:43 accounting: Client [Character: whatsThat[268488029] - Account: traktorius - IP: 78.58.124.5] disconnected abnormally!
+[INFO ] 2020-03-21 17:50:57 accounting: Client [Character: whatsThat[268488029] - Account: traktorius - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-21 17:52:02 accounting: Client [Character: celler[268488061] - Account: traktorius1 - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-21 17:54:04 accounting: Client [Character: gsgsd[268678303] - Account: apelsinas - IP: 78.58.124.5] logged in.
+[WARN ] 2020-03-21 18:10:05 accounting: Client [Character: celler[268488061] - Account: traktorius1 - IP: 78.58.124.5] disconnected abnormally!
+[WARN ] 2020-03-21 18:10:10 accounting: Client [Character: gsgsd[268678303] - Account: apelsinas - IP: 78.58.124.5] disconnected abnormally!
+[WARN ] 2020-03-21 18:10:14 accounting: Client [Character: whatsThat[268488029] - Account: traktorius - IP: 78.58.124.5] disconnected abnormally!
+[INFO ] 2020-03-21 18:14:42 accounting: Client [Character: celler[268488061] - Account: traktorius1 - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-21 18:14:54 accounting: Client [Character: whatsThat[268488029] - Account: traktorius - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-21 18:15:19 accounting: Client [Character: gsgsd[268678303] - Account: apelsinas - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-21 18:52:39 accounting: Client [Character: varnenas[268584019] - Account: adeptio - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-21 18:56:20 accounting: Created new character dwarfes [268489732] [Account: testass - IP: 78.58.124.5].
+[INFO ] 2020-03-21 18:56:22 accounting: Client [Character: dwarfes[268489732] - Account: testass - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-21 19:50:20 accounting: Created new character Devil [268490851] [Account: dataforce3 - IP: 89.254.134.132].
+[INFO ] 2020-03-21 19:50:29 accounting: Client [Character: Devil[268490851] - Account: dataforce3 - IP: 89.254.134.132] logged in.
+[INFO ] 2020-03-21 19:56:27 accounting: Created new character abadarDMG [268490976] [Account: obuolys - IP: 78.58.124.5].
+[INFO ] 2020-03-21 19:56:31 accounting: Client [Character: abadarDMG[268490976] - Account: obuolys - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-22 17:28:34 accounting: Created new character EuropMAN [268522645] [Account: europot - IP: 78.58.124.5].
+[INFO ] 2020-03-22 17:28:36 accounting: Client [Character: EuropMAN[268522645] - Account: europot - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-22 17:33:04 accounting: Created new character Charmnsa [268522792] [Account: europot1 - IP: 78.58.124.5].
+[INFO ] 2020-03-22 17:33:06 accounting: Client [Character: Charmnsa[268522792] - Account: europot1 - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-23 01:39:09 accounting: Created new character Junekas [268534486] [Account: junekas - IP: 78.56.51.62].
+[INFO ] 2020-03-23 01:39:10 accounting: Client [Character: Junekas[268534486] - Account: junekas - IP: 78.56.51.62] logged in.
+[INFO ] 2020-03-23 05:31:18 accounting: Created new character Darking [268540115] [Account: jedamaes - IP: 45.176.232.250].
+[INFO ] 2020-03-23 05:31:24 accounting: Client [Character: Darking[268540115] - Account: jedamaes - IP: 45.176.232.250] logged in.
+[INFO ] 2020-03-23 05:33:04 accounting: Created new character ThatOthell [268540153] [Account: sleepyowo5 - IP: 24.85.16.66].
+[INFO ] 2020-03-23 05:33:06 accounting: Client [Character: ThatOthell[268540153] - Account: sleepyowo5 - IP: 24.85.16.66] logged in.
+[INFO ] 2020-03-23 07:16:50 accounting: Created new character czemu [268542706] [Account: normalnie - IP: 188.147.102.220].
+[WARN ] 2020-03-23 07:16:52 accounting: Client [Account: normalnie - IP: 188.147.102.220] disconnected abnormally!
+[INFO ] 2020-03-23 07:17:27 accounting: Client [Character: czemu[268542706] - Account: normalnie - IP: 188.147.102.220] logged in.
+[WARN ] 2020-03-23 15:58:06 accounting: Client [Character: whatsThat[268488029] - Account: traktorius - IP: 78.58.124.5] disconnected abnormally!
+[WARN ] 2020-03-23 15:58:31 accounting: Client [Character: celler[268488061] - Account: traktorius1 - IP: 78.58.124.5] disconnected abnormally!
+[WARN ] 2020-03-23 15:59:02 accounting: Kicked by login: [Character: varnenas[268584019] - Account: adeptio - IP: 78.58.124.5]
+[INFO ] 2020-03-23 15:59:12 accounting: Client [Character: roothere[268481220] - Account: adeptio - IP: 78.58.124.5] logged in.
+[WARN ] 2020-03-23 16:35:43 accounting: Client [Character: roothere[268481220] - Account: adeptio - IP: 78.58.124.5] disconnected abnormally!
+[INFO ] 2020-03-23 17:02:41 accounting: Client [Character: roothere[268481220] - Account: adeptio - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-23 17:04:16 accounting: [Character: roothere[268481220] - Account: adeptio - IP: 78.58.124.5] logged out.
+[INFO ] 2020-03-23 17:04:19 accounting: Client [Character: roothere[268481220] - Account: adeptio - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-23 17:04:26 accounting: [Character: roothere[268481220] - Account: adeptio - IP: 78.58.124.5] logged out.
+[INFO ] 2020-03-23 17:05:25 accounting: Client [Character: roothere[268481220] - Account: adeptio - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-23 17:33:38 accounting: [Character: roothere[268481220] - Account: adeptio - IP: 78.58.124.5] logged out.
+[INFO ] 2020-03-23 17:33:41 accounting: Client [Character: roothere[268481220] - Account: adeptio - IP: 78.58.124.5] logged in.
+[WARN ] 2020-03-23 17:34:57 accounting: Client [Character: roothere[268481220] - Account: adeptio - IP: 78.58.124.5] disconnected abnormally!
+[WARN ] 2020-03-23 17:35:16 accounting: Kicked by login: [Character: roothere[268481220] - Account: adeptio - IP: 78.58.124.5]
+[WARN ] 2020-03-23 17:35:19 accounting: Kicked by login: [Character: roothere[268481220] - Account: adeptio - IP: 78.58.124.5]
+[WARN ] 2020-03-23 17:35:20 accounting: Kicked by login: [Character: roothere[268481220] - Account: adeptio - IP: 78.58.124.5]
+[WARN ] 2020-03-23 17:35:21 accounting: Kicked by login: [Character: roothere[268481220] - Account: adeptio - IP: 78.58.124.5]
+[WARN ] 2020-03-23 17:35:22 accounting: Kicked by login: [Character: roothere[268481220] - Account: adeptio - IP: 78.58.124.5]
+[WARN ] 2020-03-23 17:35:23 accounting: Kicked by login: [Character: roothere[268481220] - Account: adeptio - IP: 78.58.124.5]

@@ -1,0 +1,16 @@
+[Unit]
+Description=L2 login engine daemon & service
+After=network.target
+
+[Service]
+User=root
+Type=simple
+WorkingDirectory=/opt/l2j/server/login
+ExecStart=/usr/bin/java -Xms1g -Xmx3g -jar l2jlogin.jar
+Restart=always
+RestartSec=120
+TimeoutSec=900
+
+[Install]
+WantedBy=default.target
+

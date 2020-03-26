@@ -1,0 +1,2 @@
+23/03/2020 18:03:28>roothere [268481220]>Drop>Mozella>(id: 57 name: Adena objId: 268481260 x: 17249 y: 114178 z: -3440)
+24/03/2020 15:36:26>roothere [268481220]>Drop>Lara>(id: 57 name: Adena objId: 268511385 x: 19191 y: 145465 z: -3114)

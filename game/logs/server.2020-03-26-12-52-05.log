@@ -1,0 +1,1561 @@
+[INFO ] 2020-03-24 19:53:52 GameServer: ------------------------------------------------=[ Database ]
+[INFO ] 2020-03-24 19:53:52 GameServer: -----------------------------------=[ Network Configuration ]
+[INFO ] 2020-03-24 19:53:52 IPConfigData: Using existing ipconfig.xml.
+[INFO ] 2020-03-24 19:53:52 ConnectionFactory: Using HikariCP connection pool.
+[INFO ] 2020-03-24 19:53:52 DAOFactory: Using MySQL DAO Factory.
+[INFO ] 2020-03-24 19:53:52 HikariDataSource: HikariPool-1 - Starting...
+[INFO ] 2020-03-24 19:53:52 HikariDataSource: HikariPool-1 - Start completed.
+[INFO ] 2020-03-24 19:53:52 IdFactory: Updated characters online status.
+[INFO ] 2020-03-24 19:53:53 IdFactory: Cleaned 0 elements from database in 0s.
+[INFO ] 2020-03-24 19:53:53 IdFactory: Cleaned 0 expired timestamps from database.
+[INFO ] 2020-03-24 19:53:53 BitSetIDFactory: 411648 Ids available.
+[INFO ] 2020-03-24 19:53:53 GameServer: ---------------------------------------------------=[ World ]
+[INFO ] 2020-03-24 19:53:53 InstanceManager: Multiverse Instance created.
+[INFO ] 2020-03-24 19:53:53 InstanceManager: Universe Instance created.
+[INFO ] 2020-03-24 19:53:53 InstanceManager: Loaded 160 instance names.
+[INFO ] 2020-03-24 19:53:54 L2World: 128 by 136 world region grid set up.
+[INFO ] 2020-03-24 19:53:54 MapRegionManager: Loaded 57 map regions.
+[INFO ] 2020-03-24 19:53:54 GlobalVariablesManager: Loaded 6 variables.
+[INFO ] 2020-03-24 19:53:54 GameServer: ----------------------------------------------------=[ Data ]
+[INFO ] 2020-03-24 19:53:54 CategoryData: Loaded 124 Categories.
+[INFO ] 2020-03-24 19:53:54 SecondaryAuthData: Loaded 328 forbidden passwords.
+[INFO ] 2020-03-24 19:53:54 GameServer: -------------------------------------------------=[ Effects ]
+[INFO ] 2020-03-24 19:53:58 EffectMasterHandler: Loaded 160 effect handlers.
+[INFO ] 2020-03-24 19:53:58 GameServer: ------------------------------------=[ Enchant Skill Groups ]
+[INFO ] 2020-03-24 19:53:58 EnchantSkillGroupsData: Loaded 4 groups and 90 routes.
+[INFO ] 2020-03-24 19:53:58 GameServer: ---------------------------------------------=[ Skill Trees ]
+[INFO ] 2020-03-24 19:53:59 SkillTreesData: Loaded 17176 Class Skills for 103 Class Skill Trees.
+[INFO ] 2020-03-24 19:53:59 SkillTreesData: Loaded 76 Sub-Class Skills.
+[INFO ] 2020-03-24 19:53:59 SkillTreesData: Loaded 77 Transfer Skills for 3 Transfer Skill Trees.
+[INFO ] 2020-03-24 19:53:59 SkillTreesData: Loaded 117 Fishing Skills, 8 Dwarven only Fishing Skills.
+[INFO ] 2020-03-24 19:53:59 SkillTreesData: Loaded 3 Collect Skills.
+[INFO ] 2020-03-24 19:53:59 SkillTreesData: Loaded 74 Pledge Skills, 44 for Pledge and 30 Residential.
+[INFO ] 2020-03-24 19:53:59 SkillTreesData: Loaded 18 Sub-Pledge Skills.
+[INFO ] 2020-03-24 19:53:59 SkillTreesData: Loaded 32 Transform Skills.
+[INFO ] 2020-03-24 19:53:59 SkillTreesData: Loaded 8 Noble Skills.
+[INFO ] 2020-03-24 19:53:59 SkillTreesData: Loaded 5 Hero Skills.
+[INFO ] 2020-03-24 19:53:59 SkillTreesData: Loaded 46 Game Master Skills.
+[INFO ] 2020-03-24 19:53:59 SkillTreesData: Loaded 46 Game Master Aura Skills.
+[INFO ] 2020-03-24 19:53:59 GameServer: --------------------------------------------------=[ Skills ]
+[INFO ] 2020-03-24 19:54:22 DocumentEngine: Loaded 65957 skill templates from XML files.
+[INFO ] 2020-03-24 19:54:22 SummonSkillsTable: Loaded 1891 summon skills.
+[INFO ] 2020-03-24 19:54:22 GameServer: ---------------------------------------------------=[ Items ]
+[INFO ] 2020-03-24 19:54:24 ItemTable: Highest item Id used 22567.
+[INFO ] 2020-03-24 19:54:24 ItemTable: Loaded 11481 Etc items.
+[INFO ] 2020-03-24 19:54:24 ItemTable: Loaded 3825 Armor items.
+[INFO ] 2020-03-24 19:54:24 ItemTable: Loaded 3893 Weapon items.
+[INFO ] 2020-03-24 19:54:24 ItemTable: Loaded 19199 items in total.
+[INFO ] 2020-03-24 19:54:24 EnchantItemGroupsData: Loaded 4 item group templates.
+[INFO ] 2020-03-24 19:54:24 EnchantItemGroupsData: Loaded 1 scroll group templates.
+[INFO ] 2020-03-24 19:54:24 EnchantItemData: Loaded 63 enchant scrolls.
+[INFO ] 2020-03-24 19:54:24 EnchantItemData: Loaded 20 support items.
+[INFO ] 2020-03-24 19:54:24 EnchantItemOptionsData: Loaded 23 items and 1093 options.
+[INFO ] 2020-03-24 19:54:25 OptionData: Loaded 24985 item options.
+[INFO ] 2020-03-24 19:54:25 EnchantItemHPBonusData: Loaded 6 Enchant HP Bonuses.
+[INFO ] 2020-03-24 19:54:25 MerchantPriceConfigTable: Loaded 28 merchant price configs.
+[INFO ] 2020-03-24 19:54:26 BuyListData: Loaded 760 buy lists.
+[INFO ] 2020-03-24 19:54:27 MultisellData: Loaded 192 multisell lists.
+[INFO ] 2020-03-24 19:54:27 RecipeData: Loaded 1000 recipes.
+[INFO ] 2020-03-24 19:54:27 ArmorSetsData: Loaded 198 armor sets.
+[INFO ] 2020-03-24 19:54:27 FishData: Loaded 278 fish.
+[INFO ] 2020-03-24 19:54:27 FishingMonstersData: Loaded 8 fishing monsters.
+[INFO ] 2020-03-24 19:54:27 FishingRodsData: Loaded 6 fishing rods.
+[INFO ] 2020-03-24 19:54:27 HennaData: Loaded 180 Henna data.
+[INFO ] 2020-03-24 19:54:27 GameServer: ----------------------------------------------=[ Characters ]
+[INFO ] 2020-03-24 19:54:27 ClassListData: Loaded 107 class data.
+[INFO ] 2020-03-24 19:54:27 InitialEquipmentData: Loaded 11 initial equipment data.
+[INFO ] 2020-03-24 19:54:27 InitialShortcutData: Loaded 5 initial dlobal shortcuts data.
+[INFO ] 2020-03-24 19:54:27 InitialShortcutData: Loaded 4 initial shortcuts data.
+[INFO ] 2020-03-24 19:54:27 InitialShortcutData: Loaded 0 macros presets.
+[INFO ] 2020-03-24 19:54:27 KarmaData: Loaded 85 karma modifiers.
+[INFO ] 2020-03-24 19:54:27 HitConditionBonusData: Loaded Hit Condition bonuses.
+[INFO ] 2020-03-24 19:54:28 PlayerTemplateData: Loaded 103 character templates.
+[INFO ] 2020-03-24 19:54:28 PlayerTemplateData: Loaded 52530 level up gain records.
+[INFO ] 2020-03-24 19:54:28 PlayerCreationPointData: Loaded 62 character creation points.
+[INFO ] 2020-03-24 19:54:28 CharNameTable: Loaded 22 char names.
+[INFO ] 2020-03-24 19:54:28 AdminData: Loaded 10 access levels.
+[INFO ] 2020-03-24 19:54:28 AdminData: Loaded 444 access commands.
+[INFO ] 2020-03-24 19:54:28 RaidBossPointsManager: Loaded 1 characters raid points.
+[INFO ] 2020-03-24 19:54:28 PetDataTable: Loaded 52 Pets.
+[INFO ] 2020-03-24 19:54:28 GameServer: ---------------------------------------------------=[ Clans ]
+[INFO ] 2020-03-24 19:54:28 ForumsBBSManager: Loaded 4 forums. Last forum id used: 4
+[INFO ] 2020-03-24 19:54:28 ClanTable: Restored 0 clans from the database.
+[INFO ] 2020-03-24 19:54:28 ClanHallSiegeManager: Loaded 6 conquerable clan halls.
+[INFO ] 2020-03-24 19:54:29 AuctionManager: Loaded 38 auction(s).
+[INFO ] 2020-03-24 19:54:29 ClanHallManager: Loaded 0 clan halls.
+[INFO ] 2020-03-24 19:54:29 ClanHallManager: Loaded 38 free clan halls.
+[INFO ] 2020-03-24 19:54:29 GameServer: -------------------------------------------------=[ Geodata ]
+[INFO ] 2020-03-24 19:54:29 GeoData: Loaded 0 regions.
+[INFO ] 2020-03-24 19:54:29 GameServer: ----------------------------------------------------=[ NPCs ]
+[INFO ] 2020-03-24 19:54:29 SkillLearnData: Loaded 256 skill learn data.
+[INFO ] 2020-03-24 19:54:29 NpcData$MinionData: Loaded 128 minions data.
+[INFO ] 2020-03-24 19:54:34 NpcData: Loaded 10461 NPCs.
+[INFO ] 2020-03-24 19:54:34 WalkingManager: Loaded 123 walking routes.
+[INFO ] 2020-03-24 19:54:34 StaticObjectData: Loaded 51 static object templates.
+[INFO ] 2020-03-24 19:54:36 DoorData: Loaded 1301 door templates for 22 regions.
+[INFO ] 2020-03-24 19:54:37 GrandBossManager: Queen Ant (29001) status is 0.
+[INFO ] 2020-03-24 19:54:37 GrandBossManager: Core (29006) status is 0.
+[INFO ] 2020-03-24 19:54:37 GrandBossManager: Orfen (29014) status is 1.
+[INFO ] 2020-03-24 19:54:37 GrandBossManager: Next spawn date of Orfen is 2020-03-25T18:32:19.460+0000.
+[INFO ] 2020-03-24 19:54:37 GrandBossManager: Baium (29020) status is 0.
+[INFO ] 2020-03-24 19:54:37 GrandBossManager: Valakas (29028) status is 0.
+[INFO ] 2020-03-24 19:54:37 GrandBossManager: Antharas (29068) status is 0.
+[INFO ] 2020-03-24 19:54:37 GrandBossManager: Beleth (29118) status is 0.
+[INFO ] 2020-03-24 19:54:37 GrandBossManager: Loaded 7 grand boss instances.
+[INFO ] 2020-03-24 19:54:39 ZoneManager: Loaded 28 zone classes and 2793 zones.
+[INFO ] 2020-03-24 19:54:39 ZoneManager: Loaded 0 NPC spawn territoriers.
+[INFO ] 2020-03-24 19:54:39 CastleManager: Loaded 9 castles.
+[INFO ] 2020-03-24 19:54:39 NpcBufferTable: Loaded 1 buffers and 10 skills.
+[INFO ] 2020-03-24 19:54:39 GrandBossManager: Initialized 12 grand boss zones.
+[INFO ] 2020-03-24 19:54:39 GameServer: -----------------------------------------=[ Auction Manager ]
+[INFO ] 2020-03-24 19:54:39 ItemAuctionInstance: Loaded 82 item(s) and registered 3 auction(s) for NPC ID 32320.
+[INFO ] 2020-03-24 19:54:39 ItemAuctionInstance: Schedule next auction ID 7 on 17:00:00 27.03.20 for NPC ID 32320.
+[INFO ] 2020-03-24 19:54:39 ItemAuctionInstance: Loaded 82 item(s) and registered 3 auction(s) for NPC ID 32321.
+[INFO ] 2020-03-24 19:54:39 ItemAuctionInstance: Schedule next auction ID 8 on 17:00:00 30.03.20 for NPC ID 32321.
+[INFO ] 2020-03-24 19:54:39 ItemAuctionInstance: Loaded 82 item(s) and registered 2 auction(s) for NPC ID 32322.
+[INFO ] 2020-03-24 19:54:39 ItemAuctionInstance: Schedule next auction ID 6 on 17:00:00 25.03.20 for NPC ID 32322.
+[INFO ] 2020-03-24 19:54:39 ItemAuctionManager: Loaded 3 auction manager instance(s).
+[INFO ] 2020-03-24 19:54:39 GameServer: ------------------------------------------------=[ Olympiad ]
+[INFO ] 2020-03-24 19:54:39 Olympiad: Loading Olympiad System....
+[INFO ] 2020-03-24 19:54:39 Olympiad: Currently in Olympiad Period
+[INFO ] 2020-03-24 19:54:39 Olympiad: 11045 minutes until period ends
+[INFO ] 2020-03-24 19:54:39 Olympiad: Next weekly change is in 2841 minutes
+[INFO ] 2020-03-24 19:54:39 Olympiad: Loaded 0 Nobles
+[INFO ] 2020-03-24 19:54:39 Olympiad: Competition Period Starts in 0 days, 0 hours and 0 mins.
+[INFO ] 2020-03-24 19:54:39 Olympiad: Event starts/started : Tue Mar 24 18:00:39 UTC 2020
+[INFO ] 2020-03-24 19:54:39 Hero: Loaded 0 Heroes.
+[INFO ] 2020-03-24 19:54:39 Hero: Loaded 0 all time Heroes.
+[INFO ] 2020-03-24 19:54:39 GameServer: ---------------------------------------------=[ Seven Signs ]
+[INFO ] 2020-03-24 19:54:39 SevenSigns: Currently in the Competition (Quest Event) period.
+[INFO ] 2020-03-24 19:54:39 SevenSigns: The Seal of Avarice remains unclaimed.
+[INFO ] 2020-03-24 19:54:39 SevenSigns: The Seal of Gnosis remains unclaimed.
+[INFO ] 2020-03-24 19:54:39 SevenSigns: The Seal of Strife remains unclaimed.
+[INFO ] 2020-03-24 19:54:39 SevenSigns: The competition, if the current trend continues, will end in a tie this week.
+[INFO ] 2020-03-24 19:54:39 SevenSigns: Next period change set to 2020-03-30T18:00:39.271+0000.
+[INFO ] 2020-03-24 19:54:39 SevenSigns: Next period begins in 5 days, 22 hours and 5 mins.
+[INFO ] 2020-03-24 19:54:39 GameServer: ---------------------------------------------------=[ Cache ]
+[INFO ] 2020-03-24 19:54:39 HtmCache: Running lazy cache.
+[INFO ] 2020-03-24 19:54:39 CrestTable: Loaded 0 crests.
+[INFO ] 2020-03-24 19:54:39 TeleportLocationTable: Loaded 957 teleport location templates.
+[INFO ] 2020-03-24 19:54:39 UIData: Loaded 4 keys 5 categories.
+[INFO ] 2020-03-24 19:54:39 Olympiad: Olympiad Game Started
+[INFO ] 2020-03-24 19:54:39 OlympiadGameManager: Loaded 160 stadiums.
+[INFO ] 2020-03-24 19:54:39 AugmentationData: Loaded 33960 augmentations.
+[INFO ] 2020-03-24 19:54:39 AugmentationData: Loaded 2754 accessory augmentations.
+[INFO ] 2020-03-24 19:54:39 CursedWeaponsManager: Loaded 2 cursed weapon(s).
+[INFO ] 2020-03-24 19:54:39 TransformData: Loaded 111 transform templates.
+[INFO ] 2020-03-24 19:54:39 BotReportTable: Loaded 0 bot reports.
+[INFO ] 2020-03-24 19:54:39 GameServer: -------------------------------------------------=[ Scripts ]
+[INFO ] 2020-03-24 19:54:39 AirShipManager: Loaded 0 private airships.
+[INFO ] 2020-03-24 19:54:55 AbstractScript: TerritoryWarSuperClass: Siege date: Sun Apr 05 22:00:00 UTC 2020
+[INFO ] 2020-03-24 19:54:55 ClanHallSiegeEngine: Fortresss of the Dead siege scheduled for 2020-03-26T12:00:00.504+0000.
+[INFO ] 2020-03-24 19:54:55 ClanHallSiegeEngine: Bandit StrongHold siege scheduled for 2020-03-26T12:00:00.458+0000.
+[INFO ] 2020-03-24 19:54:55 ClanHallSiegeEngine: Rainbow Springs siege scheduled for 2020-03-26T12:00:00.474+0000.
+[INFO ] 2020-03-24 19:54:55 NpcBuffersData: Loaded 33 buffers data.
+[INFO ] 2020-03-24 19:54:55 InstanceLoader: Loading Instances scripts.
+[INFO ] 2020-03-24 19:54:55 Q00350_EnhanceYourWeapon: Loaded 54 soul crystal data.
+[INFO ] 2020-03-24 19:54:55 Q00350_EnhanceYourWeapon: Loaded 240 npc leveling data.
+[INFO ] 2020-03-24 19:54:56 HellboundLoader: Loading Hellbound scripts...
+[INFO ] 2020-03-24 19:54:56 HellboundPointData: Loaded 47 trust point reward data.
+[INFO ] 2020-03-24 19:54:56 HellboundSpawns: Loaded 598 Hellbound spawns.
+[INFO ] 2020-03-24 19:54:56 HellboundEngine: Level 0.
+[INFO ] 2020-03-24 19:54:56 HellboundEngine: Trust 0.
+[INFO ] 2020-03-24 19:54:56 HellboundEngine: Status locked.
+[INFO ] 2020-03-24 19:54:56 RaidBossSpawnManager: Loaded 177 bosses.
+[INFO ] 2020-03-24 19:54:56 RaidBossSpawnManager: Scheduled 10 boss instances.
+[INFO ] 2020-03-24 19:54:56 ClanHallSiegeEngine: Devastated Castle siege scheduled for 2020-03-26T12:00:00.448+0000.
+[INFO ] 2020-03-24 19:54:56 GraciaLoader: Loading Gracia scripts...
+[INFO ] 2020-03-24 19:54:56 HandysBlockCheckerEvent: Handy's Block Checker event is enabled.
+[INFO ] 2020-03-24 19:54:56 ClanHallSiegeEngine: Fortress of Resistance siege scheduled for 2020-03-26T12:00:00.426+0000.
+[INFO ] 2020-03-24 19:54:56 ClanHallSiegeEngine: Beast Farm siege scheduled for 2020-03-26T12:00:00.486+0000.
+[INFO ] 2020-03-24 19:54:56 EffectMasterHandler: Loaded 160 effect handlers.
+[INFO ] 2020-03-24 19:54:56 MasterHandler: Loading Handlers...
+[INFO ] 2020-03-24 19:54:56 MasterHandler: Loaded 1 Voiced Command Handler.
+[INFO ] 2020-03-24 19:54:56 MasterHandler: Loaded 10 Action Handler.
+[INFO ] 2020-03-24 19:54:56 MasterHandler: Loaded 6 Action Shift Handler.
+[INFO ] 2020-03-24 19:54:56 MasterHandler: Loaded 449 Admin Command Handler.
+[INFO ] 2020-03-24 19:54:56 MasterHandler: Loaded 48 Bypass Handler.
+[INFO ] 2020-03-24 19:54:56 MasterHandler: Loaded 14 Chat Handler.
+[INFO ] 2020-03-24 19:54:56 MasterHandler: Loaded 15 Community Board Handler.
+[INFO ] 2020-03-24 19:54:56 MasterHandler: Loaded 31 Item Handler.
+[INFO ] 2020-03-24 19:54:56 MasterHandler: Loaded 3 Punishment Handler.
+[INFO ] 2020-03-24 19:54:56 MasterHandler: Loaded 17 User Command Handler.
+[INFO ] 2020-03-24 19:54:56 MasterHandler: Loaded 37 Target Handler.
+[INFO ] 2020-03-24 19:54:56 MasterHandler: Loaded 20 Telnet Handler.
+[INFO ] 2020-03-24 19:54:56 MasterHandler: Handlers Loaded...
+[INFO ] 2020-03-24 19:55:07 SpawnTable: Loaded 3765 NPC spawns.
+[INFO ] 2020-03-24 19:55:07 SpawnTable: Loaded 1190 NPC spawns from XML.
+[INFO ] 2020-03-24 19:55:07 DayNightSpawnManager: Removed 0 night creatures.
+[INFO ] 2020-03-24 19:55:08 DayNightSpawnManager: Spawned 232 day creatures.
+[INFO ] 2020-03-24 19:55:08 FourSepulchersManager: Loaded 20 Mysterious-Box spawns.
+[INFO ] 2020-03-24 19:55:08 FourSepulchersManager: Loaded 716 Physical type monsters spawns.
+[INFO ] 2020-03-24 19:55:08 FourSepulchersManager: Loaded 716 Magical monsters spawns.
+[INFO ] 2020-03-24 19:55:08 FourSepulchersManager: Loaded 92 Church of duke monsters spawns.
+[INFO ] 2020-03-24 19:55:08 FourSepulchersManager: Loaded 68 Emperor's Grave spawns.
+[INFO ] 2020-03-24 19:55:08 FourSepulchersManager: Spawned Conquerors' Sepulcher Manager.
+[INFO ] 2020-03-24 19:55:08 FourSepulchersManager: Spawned Emperors' Sepulcher Manager.
+[INFO ] 2020-03-24 19:55:08 FourSepulchersManager: Spawned Great Sages' Sepulcher Manager.
+[INFO ] 2020-03-24 19:55:08 FourSepulchersManager: Spawned Judges' Sepulcher Manager.
+[INFO ] 2020-03-24 19:55:08 FourSepulchersManager: Beginning in entry time
+[INFO ] 2020-03-24 19:55:08 DimensionalRiftManager: Loaded 7 room types with 56 rooms.
+[INFO ] 2020-03-24 19:55:08 DimensionalRiftManager: Loaded 462 Dimensional Rift spawns.
+[INFO ] 2020-03-24 19:55:08 GameServer: ---------------------------------------------------=[ Siege ]
+[INFO ] 2020-03-24 19:55:08 Siege: Siege of Gludio: 2020-04-05T16:00:00.016+0000.
+[INFO ] 2020-03-24 19:55:08 Siege: Siege of Dion: 2020-04-05T20:00:00.285+0000.
+[INFO ] 2020-03-24 19:55:08 Siege: Siege of Giran: 2020-04-05T20:00:00.299+0000.
+[INFO ] 2020-03-24 19:55:08 Siege: Siege of Oren: 2020-04-05T20:00:00.308+0000.
+[INFO ] 2020-03-24 19:55:08 Siege: Siege of Aden: 2020-04-05T20:00:00.322+0000.
+[INFO ] 2020-03-24 19:55:08 Siege: Siege of Innadril: 2020-04-05T16:00:00.061+0000.
+[INFO ] 2020-03-24 19:55:08 Siege: Siege of Goddard: 2020-04-05T16:00:00.068+0000.
+[INFO ] 2020-03-24 19:55:08 Siege: Siege of Rune: 2020-04-05T16:00:00.077+0000.
+[INFO ] 2020-03-24 19:55:08 Siege: Siege of Schuttgart: 2020-04-05T16:00:00.087+0000.
+[INFO ] 2020-03-24 19:55:08 FortManager: Loaded 21 fortress.
+[INFO ] 2020-03-24 19:55:08 SiegeScheduleData: Loaded 2 siege schedulers.
+[INFO ] 2020-03-24 19:55:08 CastleManorManager: Loaded 258 seeds.
+[INFO ] 2020-03-24 19:55:08 CastleManorManager: Manor data loaded.
+[INFO ] 2020-03-24 19:55:08 MercTicketManager: Loaded 0 mercenary tickets.
+[INFO ] 2020-03-24 19:55:08 GameServer: --------------------------------------------------=[ Quests ]
+[INFO ] 2020-03-24 19:55:08 QuestManager: Loaded 520 quests.
+[INFO ] 2020-03-24 19:55:08 QuestManager: Loaded 272 scripts.
+[INFO ] 2020-03-24 19:55:08 AutoSpawnHandler: Loaded 129 handlers.
+[INFO ] 2020-03-24 19:55:08 SevenSignsFestival: The first Festival of Darkness cycle begins in 2 minute(s).
+[INFO ] 2020-03-24 19:55:08 FaenorEventParser: Event Id Valentines Event has passed... Ignored.
+[INFO ] 2020-03-24 19:55:08 FaenorScriptEngine: Loaded Valentines.xml successfully.
+[INFO ] 2020-03-24 19:55:08 TaskManager: Loaded 12 tasks.
+[INFO ] 2020-03-24 19:55:08 MailManager: Successfully loaded 0 messages.
+[INFO ] 2020-03-24 19:55:08 PunishmentManager: Loaded 0 active and 0 expired punishments.
+[INFO ] 2020-03-24 19:55:08 GameServer: Free Object Ids remaining 1879002564.
+[INFO ] 2020-03-24 19:55:08 TvTManager: Engine is disabled.
+[INFO ] 2020-03-24 19:55:09 GameServer: Started, free memory 9782 Mb of 10240 Mb
+[INFO ] 2020-03-24 19:55:09 LoginServerThread: Connecting to login server on 127.0.0.1:9014
+[INFO ] 2020-03-24 19:55:09 LoginServerThread: Registered on login as Server 2: Sieghardt
+[INFO ] 2020-03-24 19:55:09 GameServer: Now listening on *:7777
+[INFO ] 2020-03-24 19:55:09 GameServer: ----------------------------------------------------=[ UPnP ]
+[INFO ] 2020-03-24 19:55:09 UPnPService: Looking for UPnP Gateway Devices...
+[INFO ] 2020-03-24 19:55:18 UPnPService: No UPnP gateways has been found.
+[INFO ] 2020-03-24 19:55:18 GameServer: Telnet server is currently disabled.
+[INFO ] 2020-03-24 19:55:18 GameServer: Maximum numbers of connected players 4000.
+[INFO ] 2020-03-24 19:55:18 GameServer: Server Sieghardt loaded in 86 seconds.
+[INFO ] 2020-03-24 20:00:00 DayNightSpawnManager: Removed 232 day creatures.
+[INFO ] 2020-03-24 20:00:00 DayNightSpawnManager: Spawned 553 night creatures.
+[INFO ] 2020-03-24 20:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-24 20:10:08 TaskOlympiadSave: Data updated.
+[INFO ] 2020-03-24 20:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-24 20:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-24 20:40:08 TaskOlympiadSave: Data updated.
+[INFO ] 2020-03-24 20:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-24 21:00:00 DayNightSpawnManager: Removed 553 night creatures.
+[INFO ] 2020-03-24 21:00:00 DayNightSpawnManager: Spawned 232 day creatures.
+[INFO ] 2020-03-24 21:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-24 21:10:08 TaskOlympiadSave: Data updated.
+[INFO ] 2020-03-24 21:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-24 21:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-24 21:40:08 TaskOlympiadSave: Data updated.
+[INFO ] 2020-03-24 21:43:30 logger: Disconnected
+[INFO ] 2020-03-24 21:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-24 22:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-24 22:10:08 TaskOlympiadSave: Data updated.
+[INFO ] 2020-03-24 22:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-24 22:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-24 22:40:08 TaskOlympiadSave: Data updated.
+[INFO ] 2020-03-24 22:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-24 23:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-24 23:10:08 TaskOlympiadSave: Data updated.
+[INFO ] 2020-03-24 23:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-24 23:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-24 23:40:08 TaskOlympiadSave: Data updated.
+[INFO ] 2020-03-24 23:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 00:00:00 DayNightSpawnManager: Removed 232 day creatures.
+[INFO ] 2020-03-25 00:00:00 DayNightSpawnManager: Spawned 553 night creatures.
+[INFO ] 2020-03-25 00:00:39 Olympiad: Olympiad Game Ended
+[INFO ] 2020-03-25 00:00:39 Olympiad: Competition Period Starts in 0 days, 18 hours and 0 mins.
+[INFO ] 2020-03-25 00:00:39 Olympiad: Event starts/started : Wed Mar 25 18:00:39 UTC 2020
+[INFO ] 2020-03-25 00:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 00:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 00:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 00:48:56 logger: Disconnected
+[INFO ] 2020-03-25 00:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 01:00:00 DayNightSpawnManager: Removed 553 night creatures.
+[INFO ] 2020-03-25 01:00:00 DayNightSpawnManager: Spawned 232 day creatures.
+[INFO ] 2020-03-25 01:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 01:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 01:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 01:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 02:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 02:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 02:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 02:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 03:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 03:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 03:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 03:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 04:00:00 DayNightSpawnManager: Removed 232 day creatures.
+[INFO ] 2020-03-25 04:00:00 DayNightSpawnManager: Spawned 553 night creatures.
+[INFO ] 2020-03-25 04:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 04:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 04:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 04:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 05:00:00 DayNightSpawnManager: Removed 553 night creatures.
+[INFO ] 2020-03-25 05:00:00 DayNightSpawnManager: Spawned 232 day creatures.
+[INFO ] 2020-03-25 05:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 05:07:53 RaidBossSpawnManager$SpawnSchedule: Spawning Raid Boss Spirit of Andras, the Betrayer.
+[INFO ] 2020-03-25 05:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 05:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 05:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 06:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 06:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 06:30:00 TaskBirthday: 0 gifts sent.
+[INFO ] 2020-03-25 06:30:00 TaskDailySkillReuseClean: Daily skill reuse cleaned.
+[INFO ] 2020-03-25 06:30:00 TaskRecom: Recommendations System reseted.
+[INFO ] 2020-03-25 06:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 06:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 07:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 07:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 07:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 07:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 08:00:00 DayNightSpawnManager: Removed 232 day creatures.
+[INFO ] 2020-03-25 08:00:00 DayNightSpawnManager: Spawned 553 night creatures.
+[INFO ] 2020-03-25 08:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 08:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 08:28:08 RaidBossSpawnManager$SpawnSchedule: Spawning Raid Boss Korim.
+[INFO ] 2020-03-25 08:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 08:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 09:00:00 DayNightSpawnManager: Removed 553 night creatures.
+[INFO ] 2020-03-25 09:00:00 DayNightSpawnManager: Spawned 232 day creatures.
+[INFO ] 2020-03-25 09:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 09:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 09:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 09:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 10:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 10:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 10:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 10:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 11:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 11:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 11:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 11:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 12:00:00 DayNightSpawnManager: Removed 232 day creatures.
+[INFO ] 2020-03-25 12:00:00 DayNightSpawnManager: Spawned 553 night creatures.
+[INFO ] 2020-03-25 12:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 12:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 12:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 12:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 13:00:00 DayNightSpawnManager: Removed 553 night creatures.
+[INFO ] 2020-03-25 13:00:00 DayNightSpawnManager: Spawned 232 day creatures.
+[INFO ] 2020-03-25 13:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 13:12:02 RaidBossSpawnManager$SpawnSchedule: Spawning Raid Boss Deadman Ereve.
+[INFO ] 2020-03-25 13:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 13:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 13:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 14:00:13 RaidBossSpawnManager$SpawnSchedule: Spawning Raid Boss Immortal Savior Mardil.
+[INFO ] 2020-03-25 14:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 14:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 14:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 14:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 15:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 15:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 15:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 15:37:01 RaidBossSpawnManager$SpawnSchedule: Spawning Raid Boss Demon Kuri.
+[INFO ] 2020-03-25 15:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 16:00:00 DayNightSpawnManager: Removed 232 day creatures.
+[INFO ] 2020-03-25 16:00:00 DayNightSpawnManager: Spawned 553 night creatures.
+[INFO ] 2020-03-25 16:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 16:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 16:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 16:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[WARN ] 2020-03-25 16:57:14 L2GameClientPacket: Player Takeshi is trying to learn a skill that already knows, Id: 468 level: 4!
+[INFO ] 2020-03-25 17:00:00 ItemAuctionInstance$ScheduleAuctionTask: Auction ID 6 has started for NPC ID 32322.
+[INFO ] 2020-03-25 17:00:00 DayNightSpawnManager: Removed 553 night creatures.
+[INFO ] 2020-03-25 17:00:00 ItemAuctionInstance: Schedule current auction ID 6 for NPC ID 32322.
+[INFO ] 2020-03-25 17:00:00 DayNightSpawnManager: Spawned 232 day creatures.
+[INFO ] 2020-03-25 17:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 17:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 17:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 17:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 18:00:39 Olympiad: Olympiad Game Started
+[INFO ] 2020-03-25 18:00:42 logger: Disconnected
+[INFO ] 2020-03-25 18:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 18:10:08 TaskOlympiadSave: Data updated.
+[INFO ] 2020-03-25 18:16:28 logger: Disconnected
+[INFO ] 2020-03-25 18:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 18:32:19 GrandBossManager: Updated Orfen (29014) status to 0.
+[INFO ] 2020-03-25 18:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 18:40:08 TaskOlympiadSave: Data updated.
+[INFO ] 2020-03-25 18:45:01 logger: Disconnected
+[INFO ] 2020-03-25 18:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 19:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 19:06:21 RaidBossSpawnManager$SpawnSchedule: Spawning Raid Boss Rahha.
+[INFO ] 2020-03-25 19:10:08 TaskOlympiadSave: Data updated.
+[INFO ] 2020-03-25 19:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 19:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 19:40:08 TaskOlympiadSave: Data updated.
+[INFO ] 2020-03-25 19:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 20:00:00 DayNightSpawnManager: Removed 232 day creatures.
+[INFO ] 2020-03-25 20:00:00 DayNightSpawnManager: Spawned 553 night creatures.
+[INFO ] 2020-03-25 20:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 20:10:08 TaskOlympiadSave: Data updated.
+[INFO ] 2020-03-25 20:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 20:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 20:40:08 TaskOlympiadSave: Data updated.
+[INFO ] 2020-03-25 20:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 21:00:00 DayNightSpawnManager: Removed 553 night creatures.
+[INFO ] 2020-03-25 21:00:00 DayNightSpawnManager: Spawned 232 day creatures.
+[INFO ] 2020-03-25 21:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 21:10:08 TaskOlympiadSave: Data updated.
+[INFO ] 2020-03-25 21:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 21:33:29 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 21:40:08 TaskOlympiadSave: Data updated.
+[INFO ] 2020-03-25 21:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 22:00:00 ItemAuctionInstance: Auction ID 6 has finished. There have not been any bid for instance ID 32322.
+[INFO ] 2020-03-25 22:00:00 ItemAuctionInstance: Schedule next auction ID 9 on 17:00:00 01.04.20 for NPC ID 32322.
+[INFO ] 2020-03-25 22:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 22:10:08 TaskOlympiadSave: Data updated.
+[INFO ] 2020-03-25 22:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 22:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 22:40:08 TaskOlympiadSave: Data updated.
+[INFO ] 2020-03-25 22:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 23:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 23:10:08 TaskOlympiadSave: Data updated.
+[INFO ] 2020-03-25 23:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-25 23:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-25 23:40:08 TaskOlympiadSave: Data updated.
+[INFO ] 2020-03-25 23:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-26 00:00:00 DayNightSpawnManager: Removed 232 day creatures.
+[INFO ] 2020-03-26 00:00:00 DayNightSpawnManager: Spawned 553 night creatures.
+[INFO ] 2020-03-26 00:00:39 Olympiad: Olympiad Game Ended
+[INFO ] 2020-03-26 00:00:39 Olympiad: Competition Period Starts in 0 days, 17 hours and 59 mins.
+[INFO ] 2020-03-26 00:00:39 Olympiad: Event starts/started : Thu Mar 26 18:00:39 UTC 2020
+[INFO ] 2020-03-26 00:03:29 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-26 00:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-26 00:30:50 RaidBossSpawnManager$SpawnSchedule: Spawning Raid Boss Zaken's Butcher Krantz.
+[INFO ] 2020-03-26 00:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-26 00:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-26 01:00:00 DayNightSpawnManager: Removed 553 night creatures.
+[INFO ] 2020-03-26 01:00:00 DayNightSpawnManager: Spawned 232 day creatures.
+[INFO ] 2020-03-26 01:03:29 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-26 01:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-26 01:33:28 GlobalVariablesManager: Stored 6 variables.
+[ERROR] 2020-03-26 01:34:04 L2Attackable: {}
+java.lang.UnsupportedOperationException: Cannot convert '100;30;0' to java.lang.Integer
+	at org.aeonbits.owner.Util.unsupported(Util.java:139) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.unsupportedConversion(Converters.java:292) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$400(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:152) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$100(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$1.tryConvert(Converters.java:51) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.convertToArray(Converters.java:79) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.tryConvert(Converters.java:69) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.convert(Converters.java:279) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.resolveProperty(PropertiesInvocationHandler.java:90) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.invoke(PropertiesInvocationHandler.java:67) ~[owner-1.0.10.jar:?]
+	at com.sun.proxy.$Proxy31.getPartyXpCutoffGapPercent(Unknown Source) ~[?:?]
+	at com.l2jserver.gameserver.model.L2Party.calculateExpSpPartyCutoff(L2Party.java:692) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.L2Party.distributeXpAndSp(L2Party.java:674) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.calculateRewards(L2Attackable.java:524) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.doDie(L2Character.java:2116) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Npc.doDie(L2Npc.java:1037) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.doDie(L2Attackable.java:298) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.instance.L2MonsterInstance.doDie(L2MonsterInstance.java:120) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.CharStatus.reduceHp(CharStatus.java:163) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.NpcStatus.reduceHp(NpcStatus.java:52) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.AttackableStatus.reduceHp(AttackableStatus.java:50) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.reduceCurrentHp(L2Character.java:5339) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:275) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:219) [l2jserver.jar:?]
+	at com.l2jserver.datapack.handlers.effecthandlers.instant.MagicalAttack.onStart(MagicalAttack.java:89) [?:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffectScope(Skill.java:1073) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1153) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1092) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1269) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1207) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.callSkill(L2Character.java:4917) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.onMagicHitTimer(L2Character.java:4756) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.tasks.character.MagicUseTask.run(MagicUseTask.java:59) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.ThreadPoolManager$RunnableWrapper.run(ThreadPoolManager.java:86) [l2jserver.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+Caused by: java.lang.NumberFormatException: For input string: "100;30;0"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:652) ~[?:?]
+	at java.lang.Integer.valueOf(Integer.java:957) ~[?:?]
+	at java.lang.Integer.decode(Integer.java:1427) ~[?:?]
+	at com.sun.beans.editors.IntegerEditor.setAsText(IntegerEditor.java:39) ~[?:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:149) ~[owner-1.0.10.jar:?]
+	... 39 more
+[ERROR] 2020-03-26 01:34:08 L2Attackable: {}
+java.lang.UnsupportedOperationException: Cannot convert '100;30;0' to java.lang.Integer
+	at org.aeonbits.owner.Util.unsupported(Util.java:139) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.unsupportedConversion(Converters.java:292) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$400(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:152) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$100(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$1.tryConvert(Converters.java:51) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.convertToArray(Converters.java:79) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.tryConvert(Converters.java:69) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.convert(Converters.java:279) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.resolveProperty(PropertiesInvocationHandler.java:90) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.invoke(PropertiesInvocationHandler.java:67) ~[owner-1.0.10.jar:?]
+	at com.sun.proxy.$Proxy31.getPartyXpCutoffGapPercent(Unknown Source) ~[?:?]
+	at com.l2jserver.gameserver.model.L2Party.calculateExpSpPartyCutoff(L2Party.java:692) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.L2Party.distributeXpAndSp(L2Party.java:674) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.calculateRewards(L2Attackable.java:524) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.doDie(L2Character.java:2116) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Npc.doDie(L2Npc.java:1037) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.doDie(L2Attackable.java:298) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.instance.L2MonsterInstance.doDie(L2MonsterInstance.java:120) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.CharStatus.reduceHp(CharStatus.java:163) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.NpcStatus.reduceHp(NpcStatus.java:52) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.AttackableStatus.reduceHp(AttackableStatus.java:50) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.reduceCurrentHp(L2Character.java:5339) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:275) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:219) [l2jserver.jar:?]
+	at com.l2jserver.datapack.handlers.effecthandlers.instant.MagicalAttack.onStart(MagicalAttack.java:89) [?:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffectScope(Skill.java:1073) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1153) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1092) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1269) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1207) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.callSkill(L2Character.java:4917) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.onMagicHitTimer(L2Character.java:4756) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.tasks.character.MagicUseTask.run(MagicUseTask.java:59) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.ThreadPoolManager$RunnableWrapper.run(ThreadPoolManager.java:86) [l2jserver.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+Caused by: java.lang.NumberFormatException: For input string: "100;30;0"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:652) ~[?:?]
+	at java.lang.Integer.valueOf(Integer.java:957) ~[?:?]
+	at java.lang.Integer.decode(Integer.java:1427) ~[?:?]
+	at com.sun.beans.editors.IntegerEditor.setAsText(IntegerEditor.java:39) ~[?:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:149) ~[owner-1.0.10.jar:?]
+	... 39 more
+[ERROR] 2020-03-26 01:34:21 L2Attackable: {}
+java.lang.UnsupportedOperationException: Cannot convert '100;30;0' to java.lang.Integer
+	at org.aeonbits.owner.Util.unsupported(Util.java:139) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.unsupportedConversion(Converters.java:292) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$400(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:152) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$100(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$1.tryConvert(Converters.java:51) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.convertToArray(Converters.java:79) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.tryConvert(Converters.java:69) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.convert(Converters.java:279) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.resolveProperty(PropertiesInvocationHandler.java:90) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.invoke(PropertiesInvocationHandler.java:67) ~[owner-1.0.10.jar:?]
+	at com.sun.proxy.$Proxy31.getPartyXpCutoffGapPercent(Unknown Source) ~[?:?]
+	at com.l2jserver.gameserver.model.L2Party.calculateExpSpPartyCutoff(L2Party.java:692) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.L2Party.distributeXpAndSp(L2Party.java:674) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.calculateRewards(L2Attackable.java:524) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.doDie(L2Character.java:2116) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Npc.doDie(L2Npc.java:1037) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.doDie(L2Attackable.java:298) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.instance.L2MonsterInstance.doDie(L2MonsterInstance.java:120) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.CharStatus.reduceHp(CharStatus.java:163) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.NpcStatus.reduceHp(NpcStatus.java:52) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.AttackableStatus.reduceHp(AttackableStatus.java:50) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.reduceCurrentHp(L2Character.java:5339) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:275) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:219) [l2jserver.jar:?]
+	at com.l2jserver.datapack.handlers.effecthandlers.instant.MagicalAttack.onStart(MagicalAttack.java:89) [?:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffectScope(Skill.java:1073) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1153) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1092) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1269) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1207) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.callSkill(L2Character.java:4917) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.onMagicHitTimer(L2Character.java:4756) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.tasks.character.MagicUseTask.run(MagicUseTask.java:59) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.ThreadPoolManager$RunnableWrapper.run(ThreadPoolManager.java:86) [l2jserver.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+Caused by: java.lang.NumberFormatException: For input string: "100;30;0"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:652) ~[?:?]
+	at java.lang.Integer.valueOf(Integer.java:957) ~[?:?]
+	at java.lang.Integer.decode(Integer.java:1427) ~[?:?]
+	at com.sun.beans.editors.IntegerEditor.setAsText(IntegerEditor.java:39) ~[?:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:149) ~[owner-1.0.10.jar:?]
+	... 39 more
+[ERROR] 2020-03-26 01:34:26 L2Attackable: {}
+java.lang.UnsupportedOperationException: Cannot convert '100;30;0' to java.lang.Integer
+	at org.aeonbits.owner.Util.unsupported(Util.java:139) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.unsupportedConversion(Converters.java:292) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$400(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:152) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$100(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$1.tryConvert(Converters.java:51) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.convertToArray(Converters.java:79) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.tryConvert(Converters.java:69) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.convert(Converters.java:279) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.resolveProperty(PropertiesInvocationHandler.java:90) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.invoke(PropertiesInvocationHandler.java:67) ~[owner-1.0.10.jar:?]
+	at com.sun.proxy.$Proxy31.getPartyXpCutoffGapPercent(Unknown Source) ~[?:?]
+	at com.l2jserver.gameserver.model.L2Party.calculateExpSpPartyCutoff(L2Party.java:692) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.L2Party.distributeXpAndSp(L2Party.java:674) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.calculateRewards(L2Attackable.java:524) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.doDie(L2Character.java:2116) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Npc.doDie(L2Npc.java:1037) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.doDie(L2Attackable.java:298) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.instance.L2MonsterInstance.doDie(L2MonsterInstance.java:120) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.CharStatus.reduceHp(CharStatus.java:163) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.NpcStatus.reduceHp(NpcStatus.java:52) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.AttackableStatus.reduceHp(AttackableStatus.java:50) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.reduceCurrentHp(L2Character.java:5339) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:275) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:219) [l2jserver.jar:?]
+	at com.l2jserver.datapack.handlers.effecthandlers.instant.MagicalAttack.onStart(MagicalAttack.java:89) [?:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffectScope(Skill.java:1073) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1153) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1092) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1269) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1207) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.callSkill(L2Character.java:4917) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.onMagicHitTimer(L2Character.java:4756) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.tasks.character.MagicUseTask.run(MagicUseTask.java:59) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.ThreadPoolManager$RunnableWrapper.run(ThreadPoolManager.java:86) [l2jserver.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+Caused by: java.lang.NumberFormatException: For input string: "100;30;0"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:652) ~[?:?]
+	at java.lang.Integer.valueOf(Integer.java:957) ~[?:?]
+	at java.lang.Integer.decode(Integer.java:1427) ~[?:?]
+	at com.sun.beans.editors.IntegerEditor.setAsText(IntegerEditor.java:39) ~[?:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:149) ~[owner-1.0.10.jar:?]
+	... 39 more
+[ERROR] 2020-03-26 01:34:33 L2Attackable: {}
+java.lang.UnsupportedOperationException: Cannot convert '100;30;0' to java.lang.Integer
+	at org.aeonbits.owner.Util.unsupported(Util.java:139) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.unsupportedConversion(Converters.java:292) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$400(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:152) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$100(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$1.tryConvert(Converters.java:51) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.convertToArray(Converters.java:79) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.tryConvert(Converters.java:69) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.convert(Converters.java:279) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.resolveProperty(PropertiesInvocationHandler.java:90) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.invoke(PropertiesInvocationHandler.java:67) ~[owner-1.0.10.jar:?]
+	at com.sun.proxy.$Proxy31.getPartyXpCutoffGapPercent(Unknown Source) ~[?:?]
+	at com.l2jserver.gameserver.model.L2Party.calculateExpSpPartyCutoff(L2Party.java:692) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.L2Party.distributeXpAndSp(L2Party.java:674) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.calculateRewards(L2Attackable.java:524) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.doDie(L2Character.java:2116) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Npc.doDie(L2Npc.java:1037) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.doDie(L2Attackable.java:298) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.instance.L2MonsterInstance.doDie(L2MonsterInstance.java:120) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.CharStatus.reduceHp(CharStatus.java:163) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.NpcStatus.reduceHp(NpcStatus.java:52) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.AttackableStatus.reduceHp(AttackableStatus.java:50) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.reduceCurrentHp(L2Character.java:5339) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:275) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:219) [l2jserver.jar:?]
+	at com.l2jserver.datapack.handlers.effecthandlers.instant.MagicalAttack.onStart(MagicalAttack.java:89) [?:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffectScope(Skill.java:1073) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1153) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1092) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1269) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1207) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.callSkill(L2Character.java:4917) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.onMagicHitTimer(L2Character.java:4756) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.tasks.character.MagicUseTask.run(MagicUseTask.java:59) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.ThreadPoolManager$RunnableWrapper.run(ThreadPoolManager.java:86) [l2jserver.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+Caused by: java.lang.NumberFormatException: For input string: "100;30;0"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:652) ~[?:?]
+	at java.lang.Integer.valueOf(Integer.java:957) ~[?:?]
+	at java.lang.Integer.decode(Integer.java:1427) ~[?:?]
+	at com.sun.beans.editors.IntegerEditor.setAsText(IntegerEditor.java:39) ~[?:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:149) ~[owner-1.0.10.jar:?]
+	... 39 more
+[ERROR] 2020-03-26 01:35:02 L2Attackable: {}
+java.lang.UnsupportedOperationException: Cannot convert '100;30;0' to java.lang.Integer
+	at org.aeonbits.owner.Util.unsupported(Util.java:139) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.unsupportedConversion(Converters.java:292) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$400(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:152) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$100(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$1.tryConvert(Converters.java:51) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.convertToArray(Converters.java:79) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.tryConvert(Converters.java:69) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.convert(Converters.java:279) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.resolveProperty(PropertiesInvocationHandler.java:90) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.invoke(PropertiesInvocationHandler.java:67) ~[owner-1.0.10.jar:?]
+	at com.sun.proxy.$Proxy31.getPartyXpCutoffGapPercent(Unknown Source) ~[?:?]
+	at com.l2jserver.gameserver.model.L2Party.calculateExpSpPartyCutoff(L2Party.java:692) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.L2Party.distributeXpAndSp(L2Party.java:674) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.calculateRewards(L2Attackable.java:524) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.doDie(L2Character.java:2116) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Npc.doDie(L2Npc.java:1037) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.doDie(L2Attackable.java:298) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.instance.L2MonsterInstance.doDie(L2MonsterInstance.java:120) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.CharStatus.reduceHp(CharStatus.java:163) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.NpcStatus.reduceHp(NpcStatus.java:52) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.AttackableStatus.reduceHp(AttackableStatus.java:50) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.reduceCurrentHp(L2Character.java:5339) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:275) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:219) [l2jserver.jar:?]
+	at com.l2jserver.datapack.handlers.effecthandlers.instant.MagicalAttack.onStart(MagicalAttack.java:89) [?:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffectScope(Skill.java:1073) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1153) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1092) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1269) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1207) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.callSkill(L2Character.java:4917) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.onMagicHitTimer(L2Character.java:4756) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.tasks.character.MagicUseTask.run(MagicUseTask.java:59) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.ThreadPoolManager$RunnableWrapper.run(ThreadPoolManager.java:86) [l2jserver.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+Caused by: java.lang.NumberFormatException: For input string: "100;30;0"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:652) ~[?:?]
+	at java.lang.Integer.valueOf(Integer.java:957) ~[?:?]
+	at java.lang.Integer.decode(Integer.java:1427) ~[?:?]
+	at com.sun.beans.editors.IntegerEditor.setAsText(IntegerEditor.java:39) ~[?:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:149) ~[owner-1.0.10.jar:?]
+	... 39 more
+[ERROR] 2020-03-26 01:35:32 L2Attackable: {}
+java.lang.UnsupportedOperationException: Cannot convert '100;30;0' to java.lang.Integer
+	at org.aeonbits.owner.Util.unsupported(Util.java:139) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.unsupportedConversion(Converters.java:292) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$400(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:152) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$100(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$1.tryConvert(Converters.java:51) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.convertToArray(Converters.java:79) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.tryConvert(Converters.java:69) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.convert(Converters.java:279) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.resolveProperty(PropertiesInvocationHandler.java:90) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.invoke(PropertiesInvocationHandler.java:67) ~[owner-1.0.10.jar:?]
+	at com.sun.proxy.$Proxy31.getPartyXpCutoffGapPercent(Unknown Source) ~[?:?]
+	at com.l2jserver.gameserver.model.L2Party.calculateExpSpPartyCutoff(L2Party.java:692) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.L2Party.distributeXpAndSp(L2Party.java:674) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.calculateRewards(L2Attackable.java:524) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.doDie(L2Character.java:2116) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Npc.doDie(L2Npc.java:1037) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.doDie(L2Attackable.java:298) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.instance.L2MonsterInstance.doDie(L2MonsterInstance.java:120) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.CharStatus.reduceHp(CharStatus.java:163) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.NpcStatus.reduceHp(NpcStatus.java:52) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.AttackableStatus.reduceHp(AttackableStatus.java:50) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.reduceCurrentHp(L2Character.java:5339) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:275) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:219) [l2jserver.jar:?]
+	at com.l2jserver.datapack.handlers.effecthandlers.instant.MagicalAttack.onStart(MagicalAttack.java:89) [?:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffectScope(Skill.java:1073) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1153) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1092) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1269) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1207) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.callSkill(L2Character.java:4917) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.onMagicHitTimer(L2Character.java:4756) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.tasks.character.MagicUseTask.run(MagicUseTask.java:59) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.ThreadPoolManager$RunnableWrapper.run(ThreadPoolManager.java:86) [l2jserver.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+Caused by: java.lang.NumberFormatException: For input string: "100;30;0"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:652) ~[?:?]
+	at java.lang.Integer.valueOf(Integer.java:957) ~[?:?]
+	at java.lang.Integer.decode(Integer.java:1427) ~[?:?]
+	at com.sun.beans.editors.IntegerEditor.setAsText(IntegerEditor.java:39) ~[?:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:149) ~[owner-1.0.10.jar:?]
+	... 39 more
+[ERROR] 2020-03-26 01:35:52 L2Attackable: {}
+java.lang.UnsupportedOperationException: Cannot convert '100;30;0' to java.lang.Integer
+	at org.aeonbits.owner.Util.unsupported(Util.java:139) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.unsupportedConversion(Converters.java:292) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$400(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:152) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$100(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$1.tryConvert(Converters.java:51) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.convertToArray(Converters.java:79) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.tryConvert(Converters.java:69) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.convert(Converters.java:279) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.resolveProperty(PropertiesInvocationHandler.java:90) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.invoke(PropertiesInvocationHandler.java:67) ~[owner-1.0.10.jar:?]
+	at com.sun.proxy.$Proxy31.getPartyXpCutoffGapPercent(Unknown Source) ~[?:?]
+	at com.l2jserver.gameserver.model.L2Party.calculateExpSpPartyCutoff(L2Party.java:692) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.L2Party.distributeXpAndSp(L2Party.java:674) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.calculateRewards(L2Attackable.java:524) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.doDie(L2Character.java:2116) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Npc.doDie(L2Npc.java:1037) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.doDie(L2Attackable.java:298) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.instance.L2MonsterInstance.doDie(L2MonsterInstance.java:120) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.CharStatus.reduceHp(CharStatus.java:163) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.NpcStatus.reduceHp(NpcStatus.java:52) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.AttackableStatus.reduceHp(AttackableStatus.java:50) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.reduceCurrentHp(L2Character.java:5339) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:275) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:219) [l2jserver.jar:?]
+	at com.l2jserver.datapack.handlers.effecthandlers.instant.MagicalAttack.onStart(MagicalAttack.java:89) [?:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffectScope(Skill.java:1073) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1153) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1092) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1269) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1207) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.callSkill(L2Character.java:4917) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.onMagicHitTimer(L2Character.java:4756) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.tasks.character.MagicUseTask.run(MagicUseTask.java:59) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.ThreadPoolManager$RunnableWrapper.run(ThreadPoolManager.java:86) [l2jserver.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+Caused by: java.lang.NumberFormatException: For input string: "100;30;0"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:652) ~[?:?]
+	at java.lang.Integer.valueOf(Integer.java:957) ~[?:?]
+	at java.lang.Integer.decode(Integer.java:1427) ~[?:?]
+	at com.sun.beans.editors.IntegerEditor.setAsText(IntegerEditor.java:39) ~[?:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:149) ~[owner-1.0.10.jar:?]
+	... 39 more
+[ERROR] 2020-03-26 01:37:46 L2Attackable: {}
+java.lang.UnsupportedOperationException: Cannot convert '100;30;0' to java.lang.Integer
+	at org.aeonbits.owner.Util.unsupported(Util.java:139) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.unsupportedConversion(Converters.java:292) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$400(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:152) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$100(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$1.tryConvert(Converters.java:51) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.convertToArray(Converters.java:79) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.tryConvert(Converters.java:69) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.convert(Converters.java:279) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.resolveProperty(PropertiesInvocationHandler.java:90) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.invoke(PropertiesInvocationHandler.java:67) ~[owner-1.0.10.jar:?]
+	at com.sun.proxy.$Proxy31.getPartyXpCutoffGapPercent(Unknown Source) ~[?:?]
+	at com.l2jserver.gameserver.model.L2Party.calculateExpSpPartyCutoff(L2Party.java:692) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.L2Party.distributeXpAndSp(L2Party.java:674) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.calculateRewards(L2Attackable.java:524) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.doDie(L2Character.java:2116) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Npc.doDie(L2Npc.java:1037) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.doDie(L2Attackable.java:298) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.instance.L2MonsterInstance.doDie(L2MonsterInstance.java:120) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.CharStatus.reduceHp(CharStatus.java:163) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.NpcStatus.reduceHp(NpcStatus.java:52) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.AttackableStatus.reduceHp(AttackableStatus.java:50) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.reduceCurrentHp(L2Character.java:5339) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:275) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:219) [l2jserver.jar:?]
+	at com.l2jserver.datapack.handlers.effecthandlers.instant.MagicalAttack.onStart(MagicalAttack.java:89) [?:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffectScope(Skill.java:1073) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1153) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1092) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1269) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1207) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.callSkill(L2Character.java:4917) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.onMagicHitTimer(L2Character.java:4756) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.tasks.character.MagicUseTask.run(MagicUseTask.java:59) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.ThreadPoolManager$RunnableWrapper.run(ThreadPoolManager.java:86) [l2jserver.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+Caused by: java.lang.NumberFormatException: For input string: "100;30;0"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:652) ~[?:?]
+	at java.lang.Integer.valueOf(Integer.java:957) ~[?:?]
+	at java.lang.Integer.decode(Integer.java:1427) ~[?:?]
+	at com.sun.beans.editors.IntegerEditor.setAsText(IntegerEditor.java:39) ~[?:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:149) ~[owner-1.0.10.jar:?]
+	... 39 more
+[ERROR] 2020-03-26 01:37:58 L2Attackable: {}
+java.lang.UnsupportedOperationException: Cannot convert '100;30;0' to java.lang.Integer
+	at org.aeonbits.owner.Util.unsupported(Util.java:139) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.unsupportedConversion(Converters.java:292) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$400(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:152) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$100(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$1.tryConvert(Converters.java:51) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.convertToArray(Converters.java:79) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.tryConvert(Converters.java:69) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.convert(Converters.java:279) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.resolveProperty(PropertiesInvocationHandler.java:90) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.invoke(PropertiesInvocationHandler.java:67) ~[owner-1.0.10.jar:?]
+	at com.sun.proxy.$Proxy31.getPartyXpCutoffGapPercent(Unknown Source) ~[?:?]
+	at com.l2jserver.gameserver.model.L2Party.calculateExpSpPartyCutoff(L2Party.java:692) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.L2Party.distributeXpAndSp(L2Party.java:674) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.calculateRewards(L2Attackable.java:524) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.doDie(L2Character.java:2116) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Npc.doDie(L2Npc.java:1037) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.doDie(L2Attackable.java:298) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.instance.L2MonsterInstance.doDie(L2MonsterInstance.java:120) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.CharStatus.reduceHp(CharStatus.java:163) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.NpcStatus.reduceHp(NpcStatus.java:52) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.AttackableStatus.reduceHp(AttackableStatus.java:50) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.reduceCurrentHp(L2Character.java:5339) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:275) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:219) [l2jserver.jar:?]
+	at com.l2jserver.datapack.handlers.effecthandlers.instant.MagicalAttack.onStart(MagicalAttack.java:89) [?:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffectScope(Skill.java:1073) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1153) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1092) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1269) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1207) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.callSkill(L2Character.java:4917) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.onMagicHitTimer(L2Character.java:4756) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.tasks.character.MagicUseTask.run(MagicUseTask.java:59) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.ThreadPoolManager$RunnableWrapper.run(ThreadPoolManager.java:86) [l2jserver.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+Caused by: java.lang.NumberFormatException: For input string: "100;30;0"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:652) ~[?:?]
+	at java.lang.Integer.valueOf(Integer.java:957) ~[?:?]
+	at java.lang.Integer.decode(Integer.java:1427) ~[?:?]
+	at com.sun.beans.editors.IntegerEditor.setAsText(IntegerEditor.java:39) ~[?:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:149) ~[owner-1.0.10.jar:?]
+	... 39 more
+[ERROR] 2020-03-26 01:38:03 L2Attackable: {}
+java.lang.UnsupportedOperationException: Cannot convert '100;30;0' to java.lang.Integer
+	at org.aeonbits.owner.Util.unsupported(Util.java:139) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.unsupportedConversion(Converters.java:292) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$400(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:152) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$100(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$1.tryConvert(Converters.java:51) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.convertToArray(Converters.java:79) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.tryConvert(Converters.java:69) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.convert(Converters.java:279) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.resolveProperty(PropertiesInvocationHandler.java:90) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.invoke(PropertiesInvocationHandler.java:67) ~[owner-1.0.10.jar:?]
+	at com.sun.proxy.$Proxy31.getPartyXpCutoffGapPercent(Unknown Source) ~[?:?]
+	at com.l2jserver.gameserver.model.L2Party.calculateExpSpPartyCutoff(L2Party.java:692) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.L2Party.distributeXpAndSp(L2Party.java:674) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.calculateRewards(L2Attackable.java:524) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.doDie(L2Character.java:2116) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Npc.doDie(L2Npc.java:1037) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.doDie(L2Attackable.java:298) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.instance.L2MonsterInstance.doDie(L2MonsterInstance.java:120) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.CharStatus.reduceHp(CharStatus.java:163) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.NpcStatus.reduceHp(NpcStatus.java:52) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.AttackableStatus.reduceHp(AttackableStatus.java:50) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.reduceCurrentHp(L2Character.java:5339) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:275) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:219) [l2jserver.jar:?]
+	at com.l2jserver.datapack.handlers.effecthandlers.instant.MagicalAttack.onStart(MagicalAttack.java:89) [?:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffectScope(Skill.java:1073) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1153) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1092) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1269) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1207) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.callSkill(L2Character.java:4917) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.onMagicHitTimer(L2Character.java:4756) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.tasks.character.MagicUseTask.run(MagicUseTask.java:59) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.ThreadPoolManager$RunnableWrapper.run(ThreadPoolManager.java:86) [l2jserver.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+Caused by: java.lang.NumberFormatException: For input string: "100;30;0"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:652) ~[?:?]
+	at java.lang.Integer.valueOf(Integer.java:957) ~[?:?]
+	at java.lang.Integer.decode(Integer.java:1427) ~[?:?]
+	at com.sun.beans.editors.IntegerEditor.setAsText(IntegerEditor.java:39) ~[?:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:149) ~[owner-1.0.10.jar:?]
+	... 39 more
+[ERROR] 2020-03-26 01:38:06 L2Attackable: {}
+java.lang.UnsupportedOperationException: Cannot convert '100;30;0' to java.lang.Integer
+	at org.aeonbits.owner.Util.unsupported(Util.java:139) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.unsupportedConversion(Converters.java:292) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$400(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:152) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$100(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$1.tryConvert(Converters.java:51) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.convertToArray(Converters.java:79) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.tryConvert(Converters.java:69) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.convert(Converters.java:279) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.resolveProperty(PropertiesInvocationHandler.java:90) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.invoke(PropertiesInvocationHandler.java:67) ~[owner-1.0.10.jar:?]
+	at com.sun.proxy.$Proxy31.getPartyXpCutoffGapPercent(Unknown Source) ~[?:?]
+	at com.l2jserver.gameserver.model.L2Party.calculateExpSpPartyCutoff(L2Party.java:692) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.L2Party.distributeXpAndSp(L2Party.java:674) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.calculateRewards(L2Attackable.java:524) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.doDie(L2Character.java:2116) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Npc.doDie(L2Npc.java:1037) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.doDie(L2Attackable.java:298) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.instance.L2MonsterInstance.doDie(L2MonsterInstance.java:120) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.CharStatus.reduceHp(CharStatus.java:163) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.NpcStatus.reduceHp(NpcStatus.java:52) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.AttackableStatus.reduceHp(AttackableStatus.java:50) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.reduceCurrentHp(L2Character.java:5339) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:275) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:219) [l2jserver.jar:?]
+	at com.l2jserver.datapack.handlers.effecthandlers.instant.MagicalAttack.onStart(MagicalAttack.java:89) [?:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffectScope(Skill.java:1073) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1153) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1092) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1269) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1207) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.callSkill(L2Character.java:4917) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.onMagicHitTimer(L2Character.java:4756) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.tasks.character.MagicUseTask.run(MagicUseTask.java:59) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.ThreadPoolManager$RunnableWrapper.run(ThreadPoolManager.java:86) [l2jserver.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+Caused by: java.lang.NumberFormatException: For input string: "100;30;0"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:652) ~[?:?]
+	at java.lang.Integer.valueOf(Integer.java:957) ~[?:?]
+	at java.lang.Integer.decode(Integer.java:1427) ~[?:?]
+	at com.sun.beans.editors.IntegerEditor.setAsText(IntegerEditor.java:39) ~[?:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:149) ~[owner-1.0.10.jar:?]
+	... 39 more
+[ERROR] 2020-03-26 01:38:10 L2Attackable: {}
+java.lang.UnsupportedOperationException: Cannot convert '100;30;0' to java.lang.Integer
+	at org.aeonbits.owner.Util.unsupported(Util.java:139) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.unsupportedConversion(Converters.java:292) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$400(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:152) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$100(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$1.tryConvert(Converters.java:51) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.convertToArray(Converters.java:79) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.tryConvert(Converters.java:69) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.convert(Converters.java:279) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.resolveProperty(PropertiesInvocationHandler.java:90) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.invoke(PropertiesInvocationHandler.java:67) ~[owner-1.0.10.jar:?]
+	at com.sun.proxy.$Proxy31.getPartyXpCutoffGapPercent(Unknown Source) ~[?:?]
+	at com.l2jserver.gameserver.model.L2Party.calculateExpSpPartyCutoff(L2Party.java:692) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.L2Party.distributeXpAndSp(L2Party.java:674) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.calculateRewards(L2Attackable.java:524) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.doDie(L2Character.java:2116) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Npc.doDie(L2Npc.java:1037) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.doDie(L2Attackable.java:298) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.instance.L2MonsterInstance.doDie(L2MonsterInstance.java:120) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.CharStatus.reduceHp(CharStatus.java:163) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.NpcStatus.reduceHp(NpcStatus.java:52) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.AttackableStatus.reduceHp(AttackableStatus.java:50) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.reduceCurrentHp(L2Character.java:5339) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:275) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:219) [l2jserver.jar:?]
+	at com.l2jserver.datapack.handlers.effecthandlers.instant.MagicalAttack.onStart(MagicalAttack.java:89) [?:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffectScope(Skill.java:1073) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1153) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1092) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1269) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1207) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.callSkill(L2Character.java:4917) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.onMagicHitTimer(L2Character.java:4756) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.tasks.character.MagicUseTask.run(MagicUseTask.java:59) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.ThreadPoolManager$RunnableWrapper.run(ThreadPoolManager.java:86) [l2jserver.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+Caused by: java.lang.NumberFormatException: For input string: "100;30;0"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:652) ~[?:?]
+	at java.lang.Integer.valueOf(Integer.java:957) ~[?:?]
+	at java.lang.Integer.decode(Integer.java:1427) ~[?:?]
+	at com.sun.beans.editors.IntegerEditor.setAsText(IntegerEditor.java:39) ~[?:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:149) ~[owner-1.0.10.jar:?]
+	... 39 more
+[ERROR] 2020-03-26 01:38:19 L2Attackable: {}
+java.lang.UnsupportedOperationException: Cannot convert '100;30;0' to java.lang.Integer
+	at org.aeonbits.owner.Util.unsupported(Util.java:139) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.unsupportedConversion(Converters.java:292) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$400(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:152) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$100(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$1.tryConvert(Converters.java:51) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.convertToArray(Converters.java:79) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.tryConvert(Converters.java:69) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.convert(Converters.java:279) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.resolveProperty(PropertiesInvocationHandler.java:90) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.invoke(PropertiesInvocationHandler.java:67) ~[owner-1.0.10.jar:?]
+	at com.sun.proxy.$Proxy31.getPartyXpCutoffGapPercent(Unknown Source) ~[?:?]
+	at com.l2jserver.gameserver.model.L2Party.calculateExpSpPartyCutoff(L2Party.java:692) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.L2Party.distributeXpAndSp(L2Party.java:674) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.calculateRewards(L2Attackable.java:524) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.doDie(L2Character.java:2116) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Npc.doDie(L2Npc.java:1037) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.doDie(L2Attackable.java:298) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.instance.L2MonsterInstance.doDie(L2MonsterInstance.java:120) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.CharStatus.reduceHp(CharStatus.java:163) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.NpcStatus.reduceHp(NpcStatus.java:52) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.AttackableStatus.reduceHp(AttackableStatus.java:50) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.reduceCurrentHp(L2Character.java:5339) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:275) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:219) [l2jserver.jar:?]
+	at com.l2jserver.datapack.handlers.effecthandlers.instant.MagicalAttack.onStart(MagicalAttack.java:89) [?:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffectScope(Skill.java:1073) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1153) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1092) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1269) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1207) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.callSkill(L2Character.java:4917) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.onMagicHitTimer(L2Character.java:4756) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.tasks.character.MagicUseTask.run(MagicUseTask.java:59) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.ThreadPoolManager$RunnableWrapper.run(ThreadPoolManager.java:86) [l2jserver.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+Caused by: java.lang.NumberFormatException: For input string: "100;30;0"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:652) ~[?:?]
+	at java.lang.Integer.valueOf(Integer.java:957) ~[?:?]
+	at java.lang.Integer.decode(Integer.java:1427) ~[?:?]
+	at com.sun.beans.editors.IntegerEditor.setAsText(IntegerEditor.java:39) ~[?:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:149) ~[owner-1.0.10.jar:?]
+	... 39 more
+[ERROR] 2020-03-26 01:38:26 L2Attackable: {}
+java.lang.UnsupportedOperationException: Cannot convert '100;30;0' to java.lang.Integer
+	at org.aeonbits.owner.Util.unsupported(Util.java:139) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.unsupportedConversion(Converters.java:292) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$400(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:152) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$100(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$1.tryConvert(Converters.java:51) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.convertToArray(Converters.java:79) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.tryConvert(Converters.java:69) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.convert(Converters.java:279) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.resolveProperty(PropertiesInvocationHandler.java:90) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.invoke(PropertiesInvocationHandler.java:67) ~[owner-1.0.10.jar:?]
+	at com.sun.proxy.$Proxy31.getPartyXpCutoffGapPercent(Unknown Source) ~[?:?]
+	at com.l2jserver.gameserver.model.L2Party.calculateExpSpPartyCutoff(L2Party.java:692) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.L2Party.distributeXpAndSp(L2Party.java:674) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.calculateRewards(L2Attackable.java:524) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.doDie(L2Character.java:2116) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Npc.doDie(L2Npc.java:1037) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.doDie(L2Attackable.java:298) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.instance.L2MonsterInstance.doDie(L2MonsterInstance.java:120) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.CharStatus.reduceHp(CharStatus.java:163) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.NpcStatus.reduceHp(NpcStatus.java:52) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.AttackableStatus.reduceHp(AttackableStatus.java:50) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.reduceCurrentHp(L2Character.java:5339) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:275) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:219) [l2jserver.jar:?]
+	at com.l2jserver.datapack.handlers.effecthandlers.instant.MagicalAttack.onStart(MagicalAttack.java:89) [?:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffectScope(Skill.java:1073) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1153) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1092) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1269) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1207) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.callSkill(L2Character.java:4917) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.onMagicHitTimer(L2Character.java:4756) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.tasks.character.MagicUseTask.run(MagicUseTask.java:59) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.ThreadPoolManager$RunnableWrapper.run(ThreadPoolManager.java:86) [l2jserver.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+Caused by: java.lang.NumberFormatException: For input string: "100;30;0"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:652) ~[?:?]
+	at java.lang.Integer.valueOf(Integer.java:957) ~[?:?]
+	at java.lang.Integer.decode(Integer.java:1427) ~[?:?]
+	at com.sun.beans.editors.IntegerEditor.setAsText(IntegerEditor.java:39) ~[?:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:149) ~[owner-1.0.10.jar:?]
+	... 39 more
+[ERROR] 2020-03-26 01:38:32 L2Attackable: {}
+java.lang.UnsupportedOperationException: Cannot convert '100;30;0' to java.lang.Integer
+	at org.aeonbits.owner.Util.unsupported(Util.java:139) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.unsupportedConversion(Converters.java:292) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$400(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:152) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$100(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$1.tryConvert(Converters.java:51) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.convertToArray(Converters.java:79) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.tryConvert(Converters.java:69) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.convert(Converters.java:279) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.resolveProperty(PropertiesInvocationHandler.java:90) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.invoke(PropertiesInvocationHandler.java:67) ~[owner-1.0.10.jar:?]
+	at com.sun.proxy.$Proxy31.getPartyXpCutoffGapPercent(Unknown Source) ~[?:?]
+	at com.l2jserver.gameserver.model.L2Party.calculateExpSpPartyCutoff(L2Party.java:692) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.L2Party.distributeXpAndSp(L2Party.java:674) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.calculateRewards(L2Attackable.java:524) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.doDie(L2Character.java:2116) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Npc.doDie(L2Npc.java:1037) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.doDie(L2Attackable.java:298) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.instance.L2MonsterInstance.doDie(L2MonsterInstance.java:120) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.CharStatus.reduceHp(CharStatus.java:163) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.NpcStatus.reduceHp(NpcStatus.java:52) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.AttackableStatus.reduceHp(AttackableStatus.java:50) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.reduceCurrentHp(L2Character.java:5339) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:275) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:219) [l2jserver.jar:?]
+	at com.l2jserver.datapack.handlers.effecthandlers.instant.MagicalAttack.onStart(MagicalAttack.java:89) [?:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffectScope(Skill.java:1073) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1153) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1092) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1269) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1207) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.callSkill(L2Character.java:4917) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.onMagicHitTimer(L2Character.java:4756) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.tasks.character.MagicUseTask.run(MagicUseTask.java:59) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.ThreadPoolManager$RunnableWrapper.run(ThreadPoolManager.java:86) [l2jserver.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+Caused by: java.lang.NumberFormatException: For input string: "100;30;0"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:652) ~[?:?]
+	at java.lang.Integer.valueOf(Integer.java:957) ~[?:?]
+	at java.lang.Integer.decode(Integer.java:1427) ~[?:?]
+	at com.sun.beans.editors.IntegerEditor.setAsText(IntegerEditor.java:39) ~[?:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:149) ~[owner-1.0.10.jar:?]
+	... 39 more
+[ERROR] 2020-03-26 01:40:45 L2Attackable: {}
+java.lang.UnsupportedOperationException: Cannot convert '100;30;0' to java.lang.Integer
+	at org.aeonbits.owner.Util.unsupported(Util.java:139) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.unsupportedConversion(Converters.java:292) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$400(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:152) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$100(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$1.tryConvert(Converters.java:51) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.convertToArray(Converters.java:79) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.tryConvert(Converters.java:69) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.convert(Converters.java:279) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.resolveProperty(PropertiesInvocationHandler.java:90) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.invoke(PropertiesInvocationHandler.java:67) ~[owner-1.0.10.jar:?]
+	at com.sun.proxy.$Proxy31.getPartyXpCutoffGapPercent(Unknown Source) ~[?:?]
+	at com.l2jserver.gameserver.model.L2Party.calculateExpSpPartyCutoff(L2Party.java:692) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.L2Party.distributeXpAndSp(L2Party.java:674) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.calculateRewards(L2Attackable.java:524) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.doDie(L2Character.java:2116) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Npc.doDie(L2Npc.java:1037) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.doDie(L2Attackable.java:298) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.instance.L2MonsterInstance.doDie(L2MonsterInstance.java:120) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.CharStatus.reduceHp(CharStatus.java:163) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.NpcStatus.reduceHp(NpcStatus.java:52) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.AttackableStatus.reduceHp(AttackableStatus.java:50) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.reduceCurrentHp(L2Character.java:5339) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:275) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:219) [l2jserver.jar:?]
+	at com.l2jserver.datapack.handlers.effecthandlers.instant.MagicalAttack.onStart(MagicalAttack.java:89) [?:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffectScope(Skill.java:1073) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1153) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1092) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1269) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1207) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.callSkill(L2Character.java:4917) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.onMagicHitTimer(L2Character.java:4756) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.tasks.character.MagicUseTask.run(MagicUseTask.java:59) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.ThreadPoolManager$RunnableWrapper.run(ThreadPoolManager.java:86) [l2jserver.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+Caused by: java.lang.NumberFormatException: For input string: "100;30;0"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:652) ~[?:?]
+	at java.lang.Integer.valueOf(Integer.java:957) ~[?:?]
+	at java.lang.Integer.decode(Integer.java:1427) ~[?:?]
+	at com.sun.beans.editors.IntegerEditor.setAsText(IntegerEditor.java:39) ~[?:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:149) ~[owner-1.0.10.jar:?]
+	... 39 more
+[INFO ] 2020-03-26 01:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-26 02:03:28 GlobalVariablesManager: Stored 6 variables.
+[ERROR] 2020-03-26 02:06:07 L2Attackable: {}
+java.lang.UnsupportedOperationException: Cannot convert '100;30;0' to java.lang.Integer
+	at org.aeonbits.owner.Util.unsupported(Util.java:139) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.unsupportedConversion(Converters.java:292) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$400(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:152) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$100(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$1.tryConvert(Converters.java:51) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.convertToArray(Converters.java:79) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.tryConvert(Converters.java:69) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.convert(Converters.java:279) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.resolveProperty(PropertiesInvocationHandler.java:90) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.invoke(PropertiesInvocationHandler.java:67) ~[owner-1.0.10.jar:?]
+	at com.sun.proxy.$Proxy31.getPartyXpCutoffGapPercent(Unknown Source) ~[?:?]
+	at com.l2jserver.gameserver.model.L2Party.calculateExpSpPartyCutoff(L2Party.java:692) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.L2Party.distributeXpAndSp(L2Party.java:674) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.calculateRewards(L2Attackable.java:524) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.doDie(L2Character.java:2116) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Npc.doDie(L2Npc.java:1037) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.doDie(L2Attackable.java:298) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.instance.L2MonsterInstance.doDie(L2MonsterInstance.java:120) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.CharStatus.reduceHp(CharStatus.java:163) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.NpcStatus.reduceHp(NpcStatus.java:52) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.AttackableStatus.reduceHp(AttackableStatus.java:50) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.reduceCurrentHp(L2Character.java:5339) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:275) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:219) [l2jserver.jar:?]
+	at com.l2jserver.datapack.handlers.effecthandlers.instant.MagicalAttack.onStart(MagicalAttack.java:89) [?:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffectScope(Skill.java:1073) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1153) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1092) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1269) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1207) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.callSkill(L2Character.java:4917) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.onMagicHitTimer(L2Character.java:4756) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.tasks.character.MagicUseTask.run(MagicUseTask.java:59) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.ThreadPoolManager$RunnableWrapper.run(ThreadPoolManager.java:86) [l2jserver.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+Caused by: java.lang.NumberFormatException: For input string: "100;30;0"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:652) ~[?:?]
+	at java.lang.Integer.valueOf(Integer.java:957) ~[?:?]
+	at java.lang.Integer.decode(Integer.java:1427) ~[?:?]
+	at com.sun.beans.editors.IntegerEditor.setAsText(IntegerEditor.java:39) ~[?:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:149) ~[owner-1.0.10.jar:?]
+	... 39 more
+[ERROR] 2020-03-26 02:06:18 L2Attackable: {}
+java.lang.UnsupportedOperationException: Cannot convert '100;30;0' to java.lang.Integer
+	at org.aeonbits.owner.Util.unsupported(Util.java:139) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.unsupportedConversion(Converters.java:292) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$400(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:152) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$100(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$1.tryConvert(Converters.java:51) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.convertToArray(Converters.java:79) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.tryConvert(Converters.java:69) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.convert(Converters.java:279) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.resolveProperty(PropertiesInvocationHandler.java:90) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.invoke(PropertiesInvocationHandler.java:67) ~[owner-1.0.10.jar:?]
+	at com.sun.proxy.$Proxy31.getPartyXpCutoffGapPercent(Unknown Source) ~[?:?]
+	at com.l2jserver.gameserver.model.L2Party.calculateExpSpPartyCutoff(L2Party.java:692) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.L2Party.distributeXpAndSp(L2Party.java:674) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.calculateRewards(L2Attackable.java:524) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.doDie(L2Character.java:2116) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Npc.doDie(L2Npc.java:1037) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.doDie(L2Attackable.java:298) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.instance.L2MonsterInstance.doDie(L2MonsterInstance.java:120) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.CharStatus.reduceHp(CharStatus.java:163) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.NpcStatus.reduceHp(NpcStatus.java:52) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.AttackableStatus.reduceHp(AttackableStatus.java:50) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.reduceCurrentHp(L2Character.java:5339) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:275) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:219) [l2jserver.jar:?]
+	at com.l2jserver.datapack.handlers.effecthandlers.instant.MagicalAttack.onStart(MagicalAttack.java:89) [?:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffectScope(Skill.java:1073) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1153) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1092) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1269) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1207) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.callSkill(L2Character.java:4917) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.onMagicHitTimer(L2Character.java:4756) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.tasks.character.MagicUseTask.run(MagicUseTask.java:59) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.ThreadPoolManager$RunnableWrapper.run(ThreadPoolManager.java:86) [l2jserver.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+Caused by: java.lang.NumberFormatException: For input string: "100;30;0"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:652) ~[?:?]
+	at java.lang.Integer.valueOf(Integer.java:957) ~[?:?]
+	at java.lang.Integer.decode(Integer.java:1427) ~[?:?]
+	at com.sun.beans.editors.IntegerEditor.setAsText(IntegerEditor.java:39) ~[?:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:149) ~[owner-1.0.10.jar:?]
+	... 39 more
+[ERROR] 2020-03-26 02:06:30 L2Attackable: {}
+java.lang.UnsupportedOperationException: Cannot convert '100;30;0' to java.lang.Integer
+	at org.aeonbits.owner.Util.unsupported(Util.java:139) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.unsupportedConversion(Converters.java:292) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$400(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:152) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.access$100(Converters.java:36) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$1.tryConvert(Converters.java:51) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.convertToArray(Converters.java:79) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters$2.tryConvert(Converters.java:69) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.doConvert(Converters.java:284) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.Converters.convert(Converters.java:279) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.resolveProperty(PropertiesInvocationHandler.java:90) ~[owner-1.0.10.jar:?]
+	at org.aeonbits.owner.PropertiesInvocationHandler.invoke(PropertiesInvocationHandler.java:67) ~[owner-1.0.10.jar:?]
+	at com.sun.proxy.$Proxy31.getPartyXpCutoffGapPercent(Unknown Source) ~[?:?]
+	at com.l2jserver.gameserver.model.L2Party.calculateExpSpPartyCutoff(L2Party.java:692) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.L2Party.distributeXpAndSp(L2Party.java:674) ~[l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.calculateRewards(L2Attackable.java:524) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.doDie(L2Character.java:2116) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Npc.doDie(L2Npc.java:1037) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.doDie(L2Attackable.java:298) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.instance.L2MonsterInstance.doDie(L2MonsterInstance.java:120) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.CharStatus.reduceHp(CharStatus.java:163) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.NpcStatus.reduceHp(NpcStatus.java:52) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.status.AttackableStatus.reduceHp(AttackableStatus.java:50) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.reduceCurrentHp(L2Character.java:5339) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:275) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Attackable.reduceCurrentHp(L2Attackable.java:219) [l2jserver.jar:?]
+	at com.l2jserver.datapack.handlers.effecthandlers.instant.MagicalAttack.onStart(MagicalAttack.java:89) [?:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffectScope(Skill.java:1073) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1153) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.applyEffects(Skill.java:1092) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1269) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.skills.Skill.activateSkill(Skill.java:1207) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.callSkill(L2Character.java:4917) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.L2Character.onMagicHitTimer(L2Character.java:4756) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.model.actor.tasks.character.MagicUseTask.run(MagicUseTask.java:59) [l2jserver.jar:?]
+	at com.l2jserver.gameserver.ThreadPoolManager$RunnableWrapper.run(ThreadPoolManager.java:86) [l2jserver.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+Caused by: java.lang.NumberFormatException: For input string: "100;30;0"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:652) ~[?:?]
+	at java.lang.Integer.valueOf(Integer.java:957) ~[?:?]
+	at java.lang.Integer.decode(Integer.java:1427) ~[?:?]
+	at com.sun.beans.editors.IntegerEditor.setAsText(IntegerEditor.java:39) ~[?:?]
+	at org.aeonbits.owner.Converters$5.tryConvert(Converters.java:149) ~[owner-1.0.10.jar:?]
+	... 39 more
+[INFO ] 2020-03-26 02:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[WARN ] 2020-03-26 02:29:50 L2GameClientPacket: [Character: Bonbon[268526815] - Account: kamenspoil - IP: 94.134.88.29] sent not handled RequestBypassToServer: [_bbspage:openBetaShop]
+[INFO ] 2020-03-26 02:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-26 02:33:48 RaidBossSpawnManager$SpawnSchedule: Spawning Raid Boss Shacram.
+[INFO ] 2020-03-26 02:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-26 03:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-26 03:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-26 03:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-26 03:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-26 04:00:00 DayNightSpawnManager: Removed 232 day creatures.
+[INFO ] 2020-03-26 04:00:00 DayNightSpawnManager: Spawned 553 night creatures.
+[INFO ] 2020-03-26 04:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-26 04:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-26 04:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-26 04:41:17 logger: Disconnected
+[INFO ] 2020-03-26 04:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-26 05:00:00 DayNightSpawnManager: Removed 553 night creatures.
+[INFO ] 2020-03-26 05:00:00 DayNightSpawnManager: Spawned 232 day creatures.
+[INFO ] 2020-03-26 05:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-26 05:07:37 RaidBossSpawnManager$SpawnSchedule: Spawning Raid Boss Ketra Commander Atis.
+[INFO ] 2020-03-26 05:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-26 05:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-26 05:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-26 06:03:29 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-26 06:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-26 06:30:00 TaskBirthday: 0 gifts sent.
+[INFO ] 2020-03-26 06:30:00 TaskDailySkillReuseClean: Daily skill reuse cleaned.
+[INFO ] 2020-03-26 06:30:00 TaskRecom: Recommendations System reseted.
+[INFO ] 2020-03-26 06:33:29 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-26 06:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-26 07:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-26 07:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-26 07:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-26 07:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-26 08:00:00 DayNightSpawnManager: Removed 232 day creatures.
+[INFO ] 2020-03-26 08:00:00 DayNightSpawnManager: Spawned 553 night creatures.
+[INFO ] 2020-03-26 08:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-26 08:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-26 08:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-26 08:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-26 09:00:00 DayNightSpawnManager: Removed 553 night creatures.
+[INFO ] 2020-03-26 09:00:00 DayNightSpawnManager: Spawned 232 day creatures.
+[INFO ] 2020-03-26 09:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-26 09:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-26 09:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-26 09:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-26 10:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-26 10:16:39 logger: Disconnected
+[INFO ] 2020-03-26 10:19:33 RaidBossSpawnManager$SpawnSchedule: Spawning Raid Boss Kernon's Faithful Servant Kelone.
+[INFO ] 2020-03-26 10:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-26 10:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-26 10:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-26 11:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-26 11:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-26 11:33:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-26 11:55:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-26 12:00:00 DayNightSpawnManager: Removed 232 day creatures.
+[INFO ] 2020-03-26 12:00:00 DayNightSpawnManager: Spawned 553 night creatures.
+[INFO ] 2020-03-26 12:03:28 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-26 12:25:08 TaskSevenSignsUpdate: Data updated successfully.
+[INFO ] 2020-03-26 12:33:30 GlobalVariablesManager: Stored 6 variables.
+[INFO ] 2020-03-26 12:52:05 Shutdown: UPnP Service: All ports mappings deleted (0ms).

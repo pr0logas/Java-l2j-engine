@@ -1,0 +1,16 @@
+[Unit]
+Description=L2 game engine daemon & service
+After=network.target
+
+[Service]
+User=root
+Type=simple
+WorkingDirectory=/opt/l2j/server/game
+ExecStart=/usr/bin/java -Xms4g -Xmx10g -jar l2jserver.jar
+Restart=always
+RestartSec=120
+TimeoutSec=900
+
+[Install]
+WantedBy=default.target
+

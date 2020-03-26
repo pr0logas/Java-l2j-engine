@@ -1,0 +1,53 @@
+[INFO ] 2020-03-13 22:25:29 accounting: Client [Character: roothere[268481220] - Account: adeptio - IP: 78.58.124.5] logged in.
+[WARN ] 2020-03-13 22:29:11 accounting: Kicked by login: [Character: roothere[268481220] - Account: adeptio - IP: 78.58.124.5]
+[INFO ] 2020-03-13 22:29:20 accounting: Client [Character: roothere[268481220] - Account: adeptio - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-16 10:24:40 accounting: Created new character Oispoilinsiu [268567691] [Account: adeptio - IP: 78.58.124.5].
+[INFO ] 2020-03-16 10:24:41 accounting: Client [Character: Oispoilinsiu[268567691] - Account: adeptio - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-16 15:08:41 accounting: Created new character pirdalas [268574452] [Account: test - IP: 78.58.124.5].
+[WARN ] 2020-03-16 15:08:42 accounting: Client [Account: test - IP: 78.58.124.5] disconnected abnormally!
+[INFO ] 2020-03-16 15:09:55 accounting: Client [Character: pirdalas[268574452] - Account: test - IP: 78.58.124.5] logged in.
+[WARN ] 2020-03-16 17:50:39 accounting: Client [IP: 150.107.8.44] disconnected abnormally!
+[WARN ] 2020-03-16 19:19:01 accounting: Client [Character: pirdalas[268574452] - Account: test - IP: 78.58.124.5] disconnected abnormally!
+[INFO ] 2020-03-16 21:25:46 accounting: Created new character varnenas [268584019] [Account: adeptio - IP: 78.58.124.5].
+[WARN ] 2020-03-16 21:25:47 accounting: Client [Account: adeptio - IP: 78.58.124.5] disconnected abnormally!
+[INFO ] 2020-03-16 21:26:11 accounting: Client [Character: varnenas[268584019] - Account: adeptio - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-18 11:56:08 accounting: Created new character apel [268639206] [Account: testas - IP: 78.58.124.5].
+[INFO ] 2020-03-18 11:56:12 accounting: Client [Character: apel[268639206] - Account: testas - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-18 12:56:43 accounting: Created new character dulsd [268641053] [Account: ignass - IP: 78.58.124.5].
+[INFO ] 2020-03-18 12:56:48 accounting: Client [Character: dulsd[268641053] - Account: ignass - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-18 12:58:25 accounting: [Character: dulsd[268641053] - Account: ignass - IP: 78.58.124.5] logged out.
+[INFO ] 2020-03-18 12:58:30 accounting: Client [Character: dulsd[268641053] - Account: ignass - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-18 12:59:14 accounting: [Character: dulsd[268641053] - Account: ignass - IP: 78.58.124.5] logged out.
+[INFO ] 2020-03-18 12:59:31 accounting: Client [Character: dulsd[268641053] - Account: ignass - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-18 13:02:17 accounting: [Character: dulsd[268641053] - Account: ignass - IP: 78.58.124.5] logged out.
+[INFO ] 2020-03-18 16:53:42 accounting: Client [Character: Oispoilinsiu[268567691] - Account: adeptio - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-18 16:54:05 accounting: [Character: Oispoilinsiu[268567691] - Account: adeptio - IP: 78.58.124.5] logged out.
+[INFO ] 2020-03-18 16:54:15 accounting: Client [Character: Oispoilinsiu[268567691] - Account: adeptio - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-18 17:09:08 accounting: [Character: Oispoilinsiu[268567691] - Account: adeptio - IP: 78.58.124.5] logged out.
+[INFO ] 2020-03-18 17:30:33 accounting: Client [Character: Oispoilinsiu[268567691] - Account: adeptio - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-18 17:30:45 accounting: [Character: Oispoilinsiu[268567691] - Account: adeptio - IP: 78.58.124.5] logged out.
+[INFO ] 2020-03-18 17:31:52 accounting: Client [Character: Oispoilinsiu[268567691] - Account: adeptio - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-18 17:32:06 accounting: [Character: Oispoilinsiu[268567691] - Account: adeptio - IP: 78.58.124.5] logged out.
+[INFO ] 2020-03-18 17:32:16 accounting: Client [Character: Oispoilinsiu[268567691] - Account: adeptio - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-18 17:35:33 accounting: [Character: Oispoilinsiu[268567691] - Account: adeptio - IP: 78.58.124.5] logged out.
+[INFO ] 2020-03-18 17:36:45 accounting: Client [Character: Oispoilinsiu[268567691] - Account: adeptio - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-18 17:37:04 accounting: [Character: Oispoilinsiu[268567691] - Account: adeptio - IP: 78.58.124.5] logged out.
+[INFO ] 2020-03-18 17:37:15 accounting: Client [Character: Oispoilinsiu[268567691] - Account: adeptio - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-18 17:37:36 accounting: [Character: Oispoilinsiu[268567691] - Account: adeptio - IP: 78.58.124.5] logged out.
+[INFO ] 2020-03-18 17:38:30 accounting: Client [Character: Oispoilinsiu[268567691] - Account: adeptio - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-18 17:38:46 accounting: [Character: Oispoilinsiu[268567691] - Account: adeptio - IP: 78.58.124.5] logged out.
+[INFO ] 2020-03-18 19:11:55 accounting: Client [Character: Oispoilinsiu[268567691] - Account: adeptio - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-18 19:32:29 accounting: [Character: Oispoilinsiu[268567691] - Account: adeptio - IP: 78.58.124.5] logged out.
+[WARN ] 2020-03-18 20:03:55 accounting: Client [IP: 95.26.17.33] disconnected abnormally!
+[INFO ] 2020-03-19 13:13:32 accounting: Created new character Pukuotukas [268676395] [Account: citrina - IP: 78.58.124.5].
+[INFO ] 2020-03-19 13:13:37 accounting: Client [Character: Pukuotukas[268676395] - Account: citrina - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-19 13:15:13 accounting: [Character: Pukuotukas[268676395] - Account: citrina - IP: 78.58.124.5] logged out.
+[INFO ] 2020-03-19 14:46:09 accounting: Created new character gsgsd [268678303] [Account: apelsinas - IP: 78.58.124.5].
+[INFO ] 2020-03-19 14:50:44 accounting: Client [Character: gsgsd[268678303] - Account: apelsinas - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-19 14:51:24 accounting: [Character: gsgsd[268678303] - Account: apelsinas - IP: 78.58.124.5] logged out.
+[INFO ] 2020-03-19 16:00:19 accounting: Client [Character: gsgsd[268678303] - Account: apelsinas - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-19 16:04:20 accounting: [Character: gsgsd[268678303] - Account: apelsinas - IP: 78.58.124.5] logged out.
+[INFO ] 2020-03-19 19:27:50 accounting: Client [Character: gsgsd[268678303] - Account: apelsinas - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-19 19:28:44 accounting: [Character: gsgsd[268678303] - Account: apelsinas - IP: 78.58.124.5] logged out.
+[INFO ] 2020-03-20 10:40:36 accounting: Client [Character: gsgsd[268678303] - Account: apelsinas - IP: 78.58.124.5] logged in.
+[INFO ] 2020-03-20 10:41:02 accounting: [Character: gsgsd[268678303] - Account: apelsinas - IP: 78.58.124.5] logged out.
